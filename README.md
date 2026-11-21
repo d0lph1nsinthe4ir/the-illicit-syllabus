@@ -1,8 +1,8 @@
 # The Illicit Syllabus
 
-**Their syllabi. Your education.**
+**Build your own reading list backed by syllabi from prestigious institutions around the world.**
 
-A small, source-linked archive of university syllabi and published reading lists for independent study. Search by author, title, discipline, course, or institution; inspect source-backed excerpts; save a personal reading list locally; export Markdown.
+A small, source-linked archive of university syllabi and published reading lists for independent study. Start with curated subject collections or a sourced deep-dive reading; search by author, title, discipline, course, or institution; inspect source-backed excerpts; save a personal reading list locally; export Markdown.
 
 ## Run and deploy
 
