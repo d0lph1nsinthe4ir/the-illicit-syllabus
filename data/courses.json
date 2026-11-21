@@ -1118,5 +1118,261 @@
     "verifiedAt": "2026-11-21",
     "sourceLocation": "Lincoln College official 2026 reading list, section headings retained",
     "coverage": "Selected readings; not the complete reading list"
+  },
+  {
+    "id": "maxis-sims-reading-list",
+    "institution": "Maxis / The Sims",
+    "country": "United States",
+    "discipline": "Game Design",
+    "course": "The Books Behind The Sims",
+    "term": "2000",
+    "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf",
+    "sourceType": "Original game manual, Appendix 2 (non-university creator bibliography)",
+    "status": "source-linked",
+    "description": "Eleven unexpected books about architecture, consciousness, economics, and domestic life recommended in the original Sims manual.",
+    "readings": [
+      {
+        "title": "Home: A Short History of an Idea",
+        "author": "Witold Rybczynski",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Notes on the Synthesis of Form",
+        "author": "Christopher W. Alexander",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "A Pattern Language: Towns, Buildings, Construction",
+        "author": "Christopher Alexander, Sara Ishikawa, Murray Silverstein",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Architecture: Form, Space, & Order",
+        "author": "Francis D. K. Ching",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Housing by Lifestyle: The Component Method of Residential Design",
+        "author": "James W. Wentling",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Time for Life: The Surprising Ways Americans Use Their Time",
+        "author": "John P. Robinson and Geoffrey Godbey",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Maps of the Mind",
+        "author": "Charles Hampden-Turner",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Hidden Order: The Economics of Everyday Life",
+        "author": "David D. Friedman",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Making the Most of Your Llama",
+        "author": "Linda C. Beattie (editor)",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "Finding Your Perfect Love",
+        "author": "Arthur Clark and Cassandra Skouras",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      },
+      {
+        "title": "The User Illusion: Cutting Consciousness Down to Size",
+        "author": "Tor Nørretranders",
+        "status": "Recommended reading",
+        "note": "Original manual, Appendix 2",
+        "source": "https://manuals.plus/m/38f933b1d670db0ce5e14bd35ee1179420918823ee873fcb4e3808d82dcbbe34.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "The Sims (Windows) manual, Appendix 2, Recommended Reading, p. 103",
+    "coverage": "Complete 11-title recommended-reading appendix; not a university syllabus"
+  },
+  {
+    "id": "dartmouth-math-patterns",
+    "institution": "Dartmouth College",
+    "country": "United States",
+    "discipline": "Mathematics & Art",
+    "course": "Math 5: Patterns",
+    "term": "Spring 1996",
+    "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html",
+    "sourceType": "Official course syllabus with mathematics and art readings",
+    "status": "source-linked",
+    "description": "Group theory, tessellations, mandalas, wallpaper symmetries, block printing, and color theory taught together.",
+    "readings": [
+      {
+        "title": "The Classification of Finite Simple Groups (in The Mathematical Experience)",
+        "author": "Philip J. Davis and Reuben Hersh",
+        "status": "Mathematics reading",
+        "note": "Listed under Readings in Math",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Visual Forces: An Introduction to Design",
+        "author": "Benjamin Martinez and Jacqueline Block",
+        "status": "Art reading",
+        "note": "Pages 184–229",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Art Fundamentals: Theory and Practice",
+        "author": "Otto G. Ocvirk et al.",
+        "status": "Art reading",
+        "note": "Chapters 1–2",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Basic Design: The Dynamics of Visual Form",
+        "author": "Maurice de Sausmarez",
+        "status": "Art reading",
+        "note": "Chapter 4",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Art and Physics: Parallel Visions in Space, Time, and Light",
+        "author": "Leonard Shlain",
+        "status": "On reserve",
+        "note": "Listed under On reserve",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Handbook of Regular Patterns: An Introduction to Symmetry in Two Dimensions",
+        "author": "Peter S. Stevens",
+        "status": "On reserve",
+        "note": "Listed under On reserve",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      },
+      {
+        "title": "Principles of Color Design",
+        "author": "Wucius Wong",
+        "status": "On reserve",
+        "note": "Listed under On reserve",
+        "source": "https://math.dartmouth.edu/~matc/math5.pattern/syllabus96.html"
+      }
+    ],
+    "instructor": "Dorothy Wallace and Pippa Drew",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Dartmouth Math 5 Pattern Syllabus 1996, Readings in Math and Readings in Art",
+    "coverage": "All seven readings listed on the accessible syllabus page"
+  },
+  {
+    "id": "upenn-metropolitan-food-systems",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "Urban Planning",
+    "course": "Metropolitan Food Systems",
+    "term": "Spring 2020",
+    "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf",
+    "sourceType": "Official course syllabus with weekly assigned readings",
+    "status": "source-linked",
+    "description": "How cities feed themselves: foodsheds, school lunches, food deserts, public markets, waste, and urban agriculture.",
+    "readings": [
+      {
+        "title": "The Hidden History of Food System Planning",
+        "author": "Domenic Vitiello and Catherine Brinkley",
+        "status": "Assigned reading",
+        "note": "January 19: history of food planning",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "The Revolution Will Not Be Microwaved",
+        "author": "Sandor Ellix Katz",
+        "status": "Assigned reading",
+        "note": "January 26: chapter 1",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "The Omnivore’s Dilemma",
+        "author": "Michael Pollan",
+        "status": "Conditional assignment reading",
+        "note": "January 26: selections offered as one assignment option",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "Nourishing the City",
+        "author": "Kevin Morgan",
+        "status": "Assigned reading",
+        "note": "February 9: city planning and policy",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "Creating Healthy Food and Eating Environments",
+        "author": "Mary Story et al.",
+        "status": "Assigned reading",
+        "note": "February 16: assessing food environments",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "The ABC’s of School Lunch",
+        "author": "Janet Poppendieck",
+        "status": "Assigned reading",
+        "note": "February 23: grocery and school food",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "Food Policy",
+        "author": "Tim Lang, David Barling and Martin Caraher",
+        "status": "Assigned reading",
+        "note": "March 2: chapter 2",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "Sweet Charity",
+        "author": "Janet Poppendieck",
+        "status": "Assigned reading",
+        "note": "March 2: chapter 7",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "From Seed to Table",
+        "author": "Marielle Dubbeling, Femke Hoekstra and René van Veenhuizen",
+        "status": "Assigned reading",
+        "note": "March 30: value chains and distribution",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "Paradise Transplanted",
+        "author": "Pierrette Hondagneu-Sotelo",
+        "status": "Assigned reading",
+        "note": "April 13: pp. 116–160",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      },
+      {
+        "title": "The Earth Knows My Name",
+        "author": "Patricia Klindienst",
+        "status": "Assigned reading",
+        "note": "April 13: pp. 103–132",
+        "source": "https://www.design.upenn.edu/sites/default/files/files/CPLN621%20syllabus%202022.pdf"
+      }
+    ],
+    "instructor": "Domenic Vitiello",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Penn CPLN 621 syllabus, dated Spring 2020, weekly Reading sections",
+    "coverage": "Selected readings; not the complete syllabus"
   }
 ]
