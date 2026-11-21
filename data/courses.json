@@ -833,5 +833,290 @@
     "verifiedAt": "2026-11-21",
     "coverage": "Selected recommendations from Brasenose College's 2026 preparatory reading list, not a complete syllabus",
     "sourceLocation": "Brasenose College, 2026 undergraduate preparatory reading"
+  },
+  {
+    "id": "oxford-lincoln-early-medieval",
+    "institution": "University of Oxford — Lincoln College",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "Early Medieval Literature, 650–1350",
+    "term": "2026–27",
+    "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf",
+    "sourceType": "official college reading list PDF",
+    "status": "source-linked",
+    "description": "Old English epics, riddles, laments, and early Middle English, from Beowulf to The Owl and the Nightingale.",
+    "readings": [
+      {
+        "title": "A Guide to Old English",
+        "author": "Bruce Mitchell and Fred C. Robinson",
+        "status": "Essential summer reading",
+        "note": "8th edition; includes set passages from The Dream of the Rood, The Wanderer and Beowulf",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "A Book of Middle English",
+        "author": "John Burrow and Thorlac Turville-Petre",
+        "status": "Essential summer reading",
+        "note": "3rd edition; contains the set passage of The Owl and the Nightingale",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Old and Middle English, c.890–c.1450: An Anthology",
+        "author": "Elaine Treharne",
+        "status": "Essential summer reading",
+        "note": "3rd edition",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Beowulf: Second Edition",
+        "author": "R. M. Liuzza (editor and translator)",
+        "status": "Essential summer reading",
+        "note": "Facing-page Old English and English translation",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Introduction to Old English",
+        "author": "Peter S. Baker",
+        "status": "Old English language resource",
+        "note": "3rd edition",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "An Introduction to Middle English: Grammar and Texts",
+        "author": "R. D. Fulk",
+        "status": "Early Middle English preparatory reading",
+        "note": "Read at least the historical overview",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "The Anglo-Saxon Age: A Very Short Introduction",
+        "author": "John Blair",
+        "status": "Further reading",
+        "note": "Historical and literary overview",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "The Cambridge Companion to Old English Literature",
+        "author": "Malcolm Godden and Michael Lapidge (editors)",
+        "status": "Further reading",
+        "note": "Historical and literary overview",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-2-Summer-Information-2026.pdf"
+      }
+    ],
+    "instructor": "Rebecca Menmuir",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Lincoln College official 2026 reading list, section headings retained",
+    "coverage": "Selected readings; not the complete reading list"
+  },
+  {
+    "id": "oxford-lincoln-english-language",
+    "institution": "University of Oxford — Lincoln College",
+    "country": "United Kingdom",
+    "discipline": "Linguistics",
+    "course": "Introduction to English Language",
+    "term": "Hilary 2027 (summer 2026 preparation)",
+    "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf",
+    "sourceType": "official college reading list PDF",
+    "status": "source-linked",
+    "description": "The history of English, linguistic close reading, and how language operates in media, politics, and advertising.",
+    "readings": [
+      {
+        "title": "The Stories of English",
+        "author": "David Crystal",
+        "status": "Essential summer reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Language and Power",
+        "author": "Norman Fairclough",
+        "status": "Essential summer reading",
+        "note": "Especially chapters 2–4",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "The English Language: A Very Short Introduction",
+        "author": "Simon Horobin",
+        "status": "Essential summer reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "The Oxford History of English",
+        "author": "Lynda Mugglestone (editor)",
+        "status": "Essential summer reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Further Reading",
+        "author": "Matthew Rubery and Leah Price (editors)",
+        "status": "Essential summer reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Rediscover Grammar",
+        "author": "David Crystal",
+        "status": "Highly recommended grammar review",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Peculiar Language: Literature as Difference from the Renaissance to James Joyce",
+        "author": "Derek Attridge",
+        "status": "Useful preparatory reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "The Myth of Mars and Venus: Do Men and Women Really Speak Different Languages?",
+        "author": "Deborah Cameron",
+        "status": "Useful preparatory reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      },
+      {
+        "title": "Politics and the English Language",
+        "author": "George Orwell",
+        "status": "Interesting provocation",
+        "note": "Essay listed under interesting provocations",
+        "source": "https://lincoln.ox.ac.uk/asset/Prelims-Paper-1A-Summer-Information-2026.pdf"
+      }
+    ],
+    "instructor": "Rebecca Menmuir",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Lincoln College official 2026 reading list, section headings retained",
+    "coverage": "Selected readings; not the complete reading list"
+  },
+  {
+    "id": "oxford-lincoln-victorian",
+    "institution": "University of Oxford — Lincoln College",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "Victorian Literature, 1830–1910",
+    "term": "Michaelmas 2026",
+    "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf",
+    "sourceType": "official college reading list PDF",
+    "status": "source-linked",
+    "description": "An intensive Victorian reading curriculum spanning poetry, novels, criticism, politics, and social thought.",
+    "readings": [
+      {
+        "title": "In Memoriam",
+        "author": "Alfred, Lord Tennyson",
+        "status": "Core reading",
+        "note": "Alongside specified poems including Ulysses and The Lady of Shalott",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "My Last Duchess",
+        "author": "Robert Browning",
+        "status": "Core reading",
+        "note": "One of several specified Browning poems",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Dover Beach",
+        "author": "Matthew Arnold",
+        "status": "Core reading",
+        "note": "Alongside specified poems and prose",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "The Windhover",
+        "author": "Gerard Manley Hopkins",
+        "status": "Core reading",
+        "note": "One of several specified Hopkins poems",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "status": "Core reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "status": "Core reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "The Portrait of a Lady",
+        "author": "Henry James",
+        "status": "Core reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde",
+        "status": "Core reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "status": "Core reading",
+        "note": "Among several specified Mill texts",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "status": "General reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "North and South",
+        "author": "Elizabeth Gaskell",
+        "status": "General reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "status": "General reading",
+        "note": "Listed as Origin of Species",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Goblin Market",
+        "author": "Christina Rossetti",
+        "status": "General reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Tess of the D’Urbervilles",
+        "author": "Thomas Hardy",
+        "status": "General reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "Victorian Poetry: Poetry, Poetics, and Politics",
+        "author": "Isobel Armstrong",
+        "status": "Recommended secondary reading",
+        "note": "Listed in the source reading list.",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      },
+      {
+        "title": "A Short Oxford History of English Literature",
+        "author": "Andrew Sanders",
+        "status": "Required reference work",
+        "note": "Victorian literature chapters, pp. 405–513, are required vacation reading",
+        "source": "https://lincoln.ox.ac.uk/asset/TM-Victorian-Vacation-Reading-List-2026.pdf"
+      }
+    ],
+    "instructor": "Timothy Michael",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Lincoln College official 2026 reading list, section headings retained",
+    "coverage": "Selected readings; not the complete reading list"
   }
 ]
