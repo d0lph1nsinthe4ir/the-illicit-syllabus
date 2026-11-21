@@ -12,11 +12,45 @@
     "description": "An introduction to literary theory through assigned readings published by MIT OpenCourseWare.",
     "readings": [
       {
-        "title": "Is There a Text in This Class?",
+        "title": "Oedipus Rex",
+        "author": "Sophocles",
+        "status": "Required text",
+        "note": "Listed under “required texts” on the course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/"
+      },
+      {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "status": "Required text",
+        "note": "Listed under “required texts” on the course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/"
+      },
+      {
+        "title": "The Interpretation of Dreams",
+        "author": "Sigmund Freud",
+        "status": "Required text",
+        "note": "Listed under “required texts” on the course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/"
+      },
+      {
+        "title": "The History of Sexuality, Vol. 1: An Introduction",
+        "author": "Michel Foucault",
+        "status": "Required text",
+        "note": "Listed under “required texts” on the course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/"
+      },
+      {
+        "title": "Literature in the Reader: Affective Stylistics",
         "author": "Stanley Fish",
-        "note": "Course reading referenced on MIT's published readings page."
+        "status": "Course reading",
+        "note": "Chapter excerpt (pp. 22–37), in Is There a Text in This Class?; listed under New Criticism and American Reader Response Criticism.",
+        "source": "https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/"
       }
-    ]
+    ],
+    "instructor": "Shankar Raman",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "MIT OpenCourseWare, Readings: required texts and New Criticism / American Reader Response Criticism",
+    "coverage": "Selected readings; not the full syllabus"
   },
   {
     "id": "mit-western-culture",
@@ -25,17 +59,51 @@
     "discipline": "Literature",
     "course": "Foundations of Western Culture: The Making of the Modern World",
     "term": "Spring 2010",
-    "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/syllabus/",
+    "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/",
     "sourceType": "official syllabus",
     "status": "source-linked",
     "description": "Literary and philosophical texts tracing the development of the modern world.",
     "readings": [
       {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "status": "Course text",
+        "note": "Listed on MIT’s course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/"
+      },
+      {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "status": "Course text",
+        "note": "Listed on MIT’s course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/"
+      },
+      {
         "title": "Meditations on First Philosophy",
         "author": "René Descartes",
-        "note": "Listed in the published course schedule."
+        "status": "Course text",
+        "note": "Listed on MIT’s course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "status": "Course text",
+        "note": "Listed on MIT’s course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/"
+      },
+      {
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Nietzsche",
+        "status": "Course text",
+        "note": "Listed on MIT’s course readings page.",
+        "source": "https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/"
       }
-    ]
+    ],
+    "instructor": "Howard Eiland",
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "MIT OpenCourseWare, Readings, Texts",
+    "coverage": "Selected texts; not the full syllabus"
   },
   {
     "id": "oxford-modern-languages",
@@ -47,14 +115,40 @@
     "source": "https://www.lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/",
     "sourceType": "official college reading list",
     "status": "source-linked",
-    "description": "Preparatory reading for philosophy and modern languages students.",
+    "description": "A Lincoln College reading list for first-year philosophy and modern languages preparation, including core texts and French literature.",
     "readings": [
+      {
+        "title": "Utilitarianism",
+        "author": "John Stuart Mill",
+        "status": "Central preparatory text",
+        "note": "Named as the central text for Moral Philosophy.",
+        "source": "https://www.lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/"
+      },
+      {
+        "title": "Meditations",
+        "author": "René Descartes",
+        "status": "Preparatory reading",
+        "note": "Recommended preparation for General Philosophy.",
+        "source": "https://www.lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/"
+      },
       {
         "title": "Phèdre",
         "author": "Jean Racine",
-        "note": "An edition is recommended in the college reading list."
+        "status": "First-term preparatory reading",
+        "note": "Paper III Short Texts; read before arrival. The linked list recommends the Raymond Picard edition.",
+        "source": "https://www.lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/"
+      },
+      {
+        "title": "Romances sans paroles",
+        "author": "Paul Verlaine",
+        "status": "First-term preparatory reading",
+        "note": "Paper III Short Texts; read before arrival.",
+        "source": "https://www.lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/"
       }
-    ]
+    ],
+    "verifiedAt": "2026-11-21",
+    "sourceLocation": "Lincoln College first-year reading list, Philosophy and Modern Languages / Paper III",
+    "coverage": "Selected preparatory readings; not a full course syllabus"
   },
   {
     "id": "yale-directed-studies",
@@ -66,7 +160,41 @@
     "source": "https://directedstudies.yale.edu/syllabi/syllabi/philosophy-syllabus",
     "sourceType": "official syllabus index",
     "status": "source-linked",
-    "description": "Directed Studies philosophy course with official syllabi linked from Yale.",
-    "readings": []
+    "description": "Seminar sequence in early-modern and modern philosophy, with a university-published weekly reading schedule.",
+    "readings": [
+      {
+        "title": "Meditations on First Philosophy",
+        "author": "René Descartes",
+        "status": "Assigned · weeks 1–2",
+        "note": "Meditations 1–3 in week 1 and 4–6 in week 2.",
+        "source": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf"
+      },
+      {
+        "title": "Discourse on Metaphysics and Monadology",
+        "author": "G. W. Leibniz",
+        "status": "Assigned · week 3",
+        "note": "Discourse sections 1–16 and 30–36; Monadology in full.",
+        "source": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf"
+      },
+      {
+        "title": "Principles of the Most Ancient and Modern Philosophy",
+        "author": "Anne Conway",
+        "status": "Assigned · week 3",
+        "note": "Selections, in the Atherton anthology.",
+        "source": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf"
+      },
+      {
+        "title": "A Treatise Concerning the Principles of Human Knowledge",
+        "author": "George Berkeley",
+        "status": "Assigned · week 4",
+        "note": "Listed for week 4.",
+        "source": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "instructor": "Multiple lecturers",
+    "readingSource": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf",
+    "sourceLocation": "Yale Directed Studies, Spring 2025 Philosophy syllabus PDF, schedule of lectures and readings",
+    "coverage": "Selected weekly assignments; not the full syllabus"
   }
 ]
