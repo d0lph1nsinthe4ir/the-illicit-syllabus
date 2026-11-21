@@ -1374,5 +1374,173 @@
     "verifiedAt": "2026-11-21",
     "sourceLocation": "Penn CPLN 621 syllabus, dated Spring 2020, weekly Reading sections",
     "coverage": "Selected readings; not the complete syllabus"
+  },
+  {
+    "id": "mit-art-craft-science",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology & Design",
+    "course": "Art, Craft, Science",
+    "term": "Fall 2024",
+    "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/",
+    "sourceType": "Official MIT OCW session-by-session reading list",
+    "description": "From glassblowing and shoemaking to taxidermy, color, dinosaurs, and cheese: how people learn to make things.",
+    "instructor": "Franco Rossi",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Keywords: A Vocabulary of Culture and Society",
+        "author": "Raymond Williams",
+        "status": "Assigned · session 2",
+        "note": "Selections on art, science and technology",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "A Theory of Craft: Function and Aesthetic Expression",
+        "author": "Howard Risatti",
+        "status": "Assigned · session 2",
+        "note": "Part 1",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "On the Economy of Machines and Manufactures",
+        "author": "Charles Babbage",
+        "status": "Assigned · session 3",
+        "note": "Preface and chapters 10 and 19",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "Shoemaker of Dreams",
+        "author": "Salvatore Ferragamo",
+        "status": "Assigned · session 3",
+        "note": "Excerpts",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "Assembling the Dinosaur",
+        "author": "Lukas Rieppel",
+        "status": "Assigned · session 10",
+        "note": "Chapter 6, Bringing Dinosaurs Back to Life",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936",
+        "author": "Donna Haraway",
+        "status": "Assigned · session 10",
+        "note": "Article",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "The Secret Lives of Color",
+        "author": "Kassia St. Clair",
+        "status": "Assigned · session 12",
+        "note": "Selections",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "The Craftsman",
+        "author": "Richard Sennett",
+        "status": "Assigned · session 18",
+        "note": "Chapter 6",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      },
+      {
+        "title": "Post-Pasteurian Cultures: The Microbiopolitics of Raw-Milk Cheese in the United States",
+        "author": "Heather Paxson",
+        "status": "Assigned · session 23",
+        "note": "Article",
+        "source": "https://ocw.mit.edu/courses/21a-501j-art-craft-science-fall-2024/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "mit-mathematics-toys-games",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Mathematics",
+    "course": "The Mathematics in Toys and Games",
+    "term": "Spring 2010",
+    "source": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/syllabus/",
+    "sourceType": "Official MIT OCW syllabus with recommended readings",
+    "description": "Combinatorial game theory explored through toys, games, and mathematical play.",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Winning Ways for Your Mathematical Plays, Vol. 1",
+        "author": "Elwyn R. Berlekamp, John H. Conway and Richard K. Guy",
+        "status": "Recommended reading",
+        "note": "Explicitly optional; syllabus states these readings are not required",
+        "source": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/syllabus/"
+      },
+      {
+        "title": "On Numbers and Games",
+        "author": "John H. Conway",
+        "status": "Recommended reading",
+        "note": "Explicitly optional; syllabus states these readings are not required",
+        "source": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/syllabus/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "mit-game-design-2008",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Game Design",
+    "course": "Game Design",
+    "term": "Spring 2008",
+    "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/",
+    "sourceType": "Official MIT OCW assigned readings",
+    "description": "The design of play, game mechanics, chance, and interactive systems, from Dungeons & Dragons to digital games.",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "21st Century Game Design",
+        "author": "Chris Bateman and Richard Boon",
+        "status": "Assigned reading",
+        "note": "Listed in assigned readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Man, Play and Games",
+        "author": "Roger Caillois",
+        "status": "Assigned reading",
+        "note": "Listed in assigned readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Game Design Workshop",
+        "author": "Tracy Fullerton",
+        "status": "Assigned reading",
+        "note": "Listed in assigned readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Dungeons & Dragons",
+        "author": "Gary Gygax and Dave Arneson",
+        "status": "Assigned reading",
+        "note": "Listed in assigned readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      },
+      {
+        "title": "MDA: A Formal Approach to Game Design and Game Research",
+        "author": "Robin Hunicke, Marc LeBlanc and Robert Zubek",
+        "status": "Assigned reading",
+        "note": "Listed in assigned readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games",
+        "author": "Jesper Juul",
+        "status": "Assigned reading",
+        "note": "Listed in course readings",
+        "source": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2008/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
   }
 ]
