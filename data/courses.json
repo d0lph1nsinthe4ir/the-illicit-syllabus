@@ -414,5 +414,275 @@
     "verifiedAt": "2026-11-21",
     "coverage": "Selected assigned readings; not the full syllabus",
     "sourceLocation": "MIT OpenCourseWare course readings"
+  },
+  {
+    "id": "mit-problems-philosophy",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Philosophy",
+    "course": "Problems of Philosophy",
+    "term": "Fall 2019",
+    "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/",
+    "sourceType": "official university course readings",
+    "status": "source-linked",
+    "description": "God, consciousness, free will, identity, and time travel: a wide-ranging introduction to philosophical argument.",
+    "readings": [
+      {
+        "title": "Natural Theology — Chapters 1–2",
+        "author": "William Paley",
+        "status": "Assigned · session 2",
+        "note": "Design arguments for God's existence",
+        "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/"
+      },
+      {
+        "title": "Euthyphro",
+        "author": "Plato",
+        "status": "Assigned · session 5",
+        "note": "Ethics and God",
+        "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/"
+      },
+      {
+        "title": "Epiphenomenal Qualia",
+        "author": "Frank Jackson",
+        "status": "Assigned · session 8",
+        "note": "Consciousness and subjective experience",
+        "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/"
+      },
+      {
+        "title": "Freedom of the Will and the Concept of a Person",
+        "author": "Harry Frankfurt",
+        "status": "Assigned · session 12",
+        "note": "Free will and compatibilism",
+        "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/"
+      },
+      {
+        "title": "The Paradoxes of Time Travel",
+        "author": "David Lewis",
+        "status": "Assigned · session 24",
+        "note": "The metaphysics of time travel",
+        "source": "https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University course reading list"
+  },
+  {
+    "id": "mit-intro-psychology",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Psychology",
+    "course": "Introduction to Psychology",
+    "term": "Fall 2004",
+    "source": "https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/readings/",
+    "sourceType": "official university course readings",
+    "status": "source-linked",
+    "description": "From perception and memory to attachment, dreams, and social behavior.",
+    "readings": [
+      {
+        "title": "Psychology (6th edition)",
+        "author": "Henry Gleitman, Alan J. Fridlund, and Daniel Reisberg",
+        "status": "Assigned textbook",
+        "note": "Textbook chapters assigned throughout the course",
+        "source": "https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/readings/"
+      },
+      {
+        "title": "Emerging Perspectives on Distinctions Between Romantic Love and Sexual Desire",
+        "author": "Lisa M. Diamond",
+        "status": "Assigned · lecture 1",
+        "note": "Research on romantic love and desire",
+        "source": "https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/readings/"
+      },
+      {
+        "title": "Neuropsychology of Fear and Loathing",
+        "author": "Andrew J. Calder, Andrew D. Lawrence, and Andrew W. Young",
+        "status": "Assigned · lecture 2",
+        "note": "Neuroscience of emotion",
+        "source": "https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/readings/"
+      },
+      {
+        "title": "Sleep Inspires Insight",
+        "author": "Ullrich Wagner et al.",
+        "status": "Assigned · lecture 22",
+        "note": "Sleep and problem-solving",
+        "source": "https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University course reading list"
+  },
+  {
+    "id": "mit-human-rights",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Political Science",
+    "course": "Human Rights: At Home and Abroad",
+    "term": "Fall 2015",
+    "source": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/",
+    "sourceType": "official university course readings",
+    "status": "source-linked",
+    "description": "A broad study of human rights theory, international law, advocacy, and political struggle.",
+    "readings": [
+      {
+        "title": "Universal Human Rights in Theory and Practice",
+        "author": "Jack Donnelly",
+        "status": "Required text",
+        "note": "Third edition, listed in required texts",
+        "source": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/"
+      },
+      {
+        "title": "Human Rights Advocacy Stories",
+        "author": "Deena Hurwitz, Margaret Satterthwaite, and Douglas Ford",
+        "status": "Required text",
+        "note": "Listed among required texts",
+        "source": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/"
+      },
+      {
+        "title": "International Law from Below",
+        "author": "Balakrishnan Rajagopal",
+        "status": "Required text",
+        "note": "Listed among required texts",
+        "source": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/"
+      },
+      {
+        "title": "Savages, Victims, and Saviors: The Metaphor of Human Rights",
+        "author": "Makau Mutua",
+        "status": "Assigned · session 4",
+        "note": "Human rights discourse and North–South divisions",
+        "source": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University course reading list"
+  },
+  {
+    "id": "mit-magic-witchcraft",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology",
+    "course": "Magic, Witchcraft, and the Spirit World",
+    "term": "Fall 2003",
+    "source": "https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/",
+    "sourceType": "official university course readings",
+    "status": "source-linked",
+    "description": "Spirit possession, witch hunts, séances, and the cultural histories of the supernatural.",
+    "readings": [
+      {
+        "title": "Salvation on Sand Mountain",
+        "author": "Dennis Covington",
+        "status": "Required reading",
+        "note": "Assigned in sessions 2–4",
+        "source": "https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/"
+      },
+      {
+        "title": "Radical Spirits",
+        "author": "Ann Braude",
+        "status": "Required reading",
+        "note": "Chapters assigned in sessions 5–6",
+        "source": "https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/"
+      },
+      {
+        "title": "The Witch Hunt in Early Modern Europe",
+        "author": "Brian Levack",
+        "status": "Required reading",
+        "note": "Chapters assigned across sessions 9–13",
+        "source": "https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/"
+      },
+      {
+        "title": "Salem Possessed: The Social Origins of Witchcraft",
+        "author": "Paul Boyer and Stephen Nissenbaum",
+        "status": "Required reading",
+        "note": "Chapters assigned in sessions 13–17",
+        "source": "https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University course reading list"
+  },
+  {
+    "id": "mit-oceans-us",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology",
+    "course": "Oceans and Us",
+    "term": "Fall 2025",
+    "source": "https://live.ocw.mit.edu/courses/21a-525-oceans-and-us-fall-2025/pages/readings/",
+    "sourceType": "official university course readings",
+    "status": "source-linked",
+    "description": "Pirates, ocean trade, offshore power, and the social worlds built around the sea.",
+    "readings": [
+      {
+        "title": "The Seaman as Pirate: Plunder and Social Banditry at Sea",
+        "author": "Marcus Rediker",
+        "status": "Assigned · session 7",
+        "note": "Chapter 6 of Between the Devil and the Deep Blue Sea",
+        "source": "https://live.ocw.mit.edu/courses/21a-525-oceans-and-us-fall-2025/pages/readings/"
+      },
+      {
+        "title": "Ports",
+        "author": "Carolyn Nordstrom",
+        "status": "Assigned · session 7",
+        "note": "Chapter 12 of Global Outlaws",
+        "source": "https://live.ocw.mit.edu/courses/21a-525-oceans-and-us-fall-2025/pages/readings/"
+      },
+      {
+        "title": "A Sea of Trade and a Sea of Fish: Piracy and Protection in the Western Indian Ocean",
+        "author": "Jatin Dua",
+        "status": "Assigned · session 7",
+        "note": "Journal of East African Studies article",
+        "source": "https://live.ocw.mit.edu/courses/21a-525-oceans-and-us-fall-2025/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University course reading list"
+  },
+  {
+    "id": "pitt-vampire-blood-empire",
+    "institution": "University of Pittsburgh",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Vampire: Blood and Empire",
+    "term": "2018",
+    "source": "https://www.slavic.pitt.edu/sites/default/files/Syllabus.Schedule-Vampires.Tues_.Thurs_.class_.1.9.18%20MW.pdf",
+    "sourceType": "official university syllabus PDF",
+    "status": "source-linked",
+    "description": "Vampires as folklore, imperial anxiety, and literary obsession, from revenant legends to Dracula.",
+    "readings": [
+      {
+        "title": "In Search of Dracula",
+        "author": "Raymond McNally and Radu Florescu",
+        "status": "Required book",
+        "note": "Listed among the course's required books",
+        "source": "https://www.slavic.pitt.edu/sites/default/files/Syllabus.Schedule-Vampires.Tues_.Thurs_.class_.1.9.18%20MW.pdf"
+      },
+      {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "status": "Required book",
+        "note": "Norton Critical Edition specified in syllabus",
+        "source": "https://www.slavic.pitt.edu/sites/default/files/Syllabus.Schedule-Vampires.Tues_.Thurs_.class_.1.9.18%20MW.pdf"
+      },
+      {
+        "title": "Interview with the Vampire",
+        "author": "Anne Rice",
+        "status": "Required book",
+        "note": "Listed among the course's required books",
+        "source": "https://www.slavic.pitt.edu/sites/default/files/Syllabus.Schedule-Vampires.Tues_.Thurs_.class_.1.9.18%20MW.pdf"
+      },
+      {
+        "title": "East European Vampires",
+        "author": "Felix Oinas",
+        "status": "Assigned · week 1",
+        "note": "Scheduled reading on folkloric revenants",
+        "source": "https://www.slavic.pitt.edu/sites/default/files/Syllabus.Schedule-Vampires.Tues_.Thurs_.class_.1.9.18%20MW.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-verified assigned readings; not a complete syllabus",
+    "sourceLocation": "University of Pittsburgh, SLAV 0880 syllabus and schedule"
   }
 ]
