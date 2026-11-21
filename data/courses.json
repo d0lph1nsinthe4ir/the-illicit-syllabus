@@ -1542,5 +1542,305 @@
     ],
     "verifiedAt": "2026-11-21",
     "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "upenn-building-pathology",
+    "institution": "University of Pennsylvania",
+    "discipline": "Architecture & Preservation",
+    "course": "Building Pathology",
+    "term": "Spring 2025",
+    "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf",
+    "description": "Why buildings fail: moisture, structural decay, material science, and the detective work of historic preservation.",
+    "instructor": "Michael C. Henry",
+    "country": "United States",
+    "sourceType": "Official institutional syllabus or reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Structural Engineering: A Very Short Introduction",
+        "author": "David Blockley",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "How Buildings Learn: What Happens After They're Built",
+        "author": "Stewart Brand",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Building Construction Illustrated",
+        "author": "Francis D. K. Ching",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Building Pathology: Deterioration, Diagnostics and Intervention",
+        "author": "Samuel Y. Harris",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Thinking in Systems: A Primer",
+        "author": "Donella H. Meadows",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Managing Collection Environments: Technical Notes and Guidance",
+        "author": "J. Taylor, M. C. Henry et al.",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Beautiful Evidence",
+        "author": "Edward R. Tufte",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      },
+      {
+        "title": "Building Pathology: Principles and Practice",
+        "author": "David S. Watt",
+        "status": "Course reading source",
+        "note": "Named in the syllabus's course materials list; assigned excerpts vary by class meeting.",
+        "source": "https://www.design.upenn.edu/sites/default/files/2025-01/HSPV%205510%202025%20Syllabus%200112%202025.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected readings, not the full syllabus"
+  },
+  {
+    "id": "stanford-beyond-bits-atoms",
+    "institution": "Stanford University",
+    "discipline": "Education & Design",
+    "course": "Beyond Bits and Atoms: Designing Technologies for Creative Learning",
+    "term": "Year unspecified",
+    "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html",
+    "description": "An unusually hands-on syllabus spanning Papert's constructionism, toy design, digital fabrication, and the theory of learning through making.",
+    "country": "United States",
+    "sourceType": "Official institutional syllabus or reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Mindstorms",
+        "author": "Seymour Papert",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      },
+      {
+        "title": "Evocative Objects: Things We Think With",
+        "author": "Sherry Turkle (ed.)",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      },
+      {
+        "title": "Pedagogy of the Oppressed",
+        "author": "Paulo Freire",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      },
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      },
+      {
+        "title": "Human-Centered Design Considered Harmful",
+        "author": "Don Norman",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      },
+      {
+        "title": "Changing Minds",
+        "author": "Andrea diSessa",
+        "status": "Assigned reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/educ211/pages/syllabus.html"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected readings, not the full syllabus"
+  },
+  {
+    "id": "oxford-world-archaeology",
+    "institution": "University of Oxford — Department for Continuing Education",
+    "country": "United Kingdom",
+    "discipline": "Archaeology",
+    "course": "World Archaeology",
+    "term": "Autumn 2024",
+    "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ",
+    "description": "A global introduction to archaeology, migration, agriculture, ancient Egypt, China, Africa, and the ancient Near East.",
+    "instructor": "Richard Jennings",
+    "sourceType": "Official institutional syllabus or reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Archaeology: Theories, Methods and Practice",
+        "author": "Colin Renfrew and Paul Bahn",
+        "status": "Preparatory reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "The Human Past: World Prehistory and the Development of Human Societies",
+        "author": "Chris Scarre (ed.)",
+        "status": "Preparatory reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "An Introduction to the Archaeology of Ancient Egypt",
+        "author": "Kathryn Bard",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "The Agricultural Revolution in Prehistory: Why Did Foragers Become Farmers?",
+        "author": "Graeme Barker",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "The Global Prehistory of Human Migration",
+        "author": "Peter Bellwood",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "Forgotten Africa: An Introduction to Its Archaeology",
+        "author": "Graham Connah",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "A History of China",
+        "author": "R. Morris",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "A Companion to the Archaeology of the Ancient Near East",
+        "author": "Daniel T. Potts (ed.)",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "Europe Before Rome",
+        "author": "D. Price",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      },
+      {
+        "title": "A Companion to South Asia in the Past",
+        "author": "Gwen Robbins Schug (ed.)",
+        "status": "Course reading",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P707AHZ"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected readings, not the full syllabus"
+  },
+  {
+    "id": "harvard-early-modern-intellectual-history",
+    "institution": "Harvard University",
+    "discipline": "History",
+    "course": "Early Modern France and European Intellectual History: Graduate Field Reading List",
+    "term": "Updated Summer 2011",
+    "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf",
+    "description": "An extensive graduate field-exam reading list across the history of knowledge, religion, print, and early modern Europe.",
+    "instructor": "Ann Blair",
+    "country": "United States",
+    "sourceType": "Official institutional syllabus or reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Early Modern France 1560–1715",
+        "author": "Robin Briggs",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      },
+      {
+        "title": "A Social and Cultural History of Early Modern France",
+        "author": "William Beik",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      },
+      {
+        "title": "The Mediterranean and the Mediterranean World in the Age of Philip II",
+        "author": "Fernand Braudel",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      },
+      {
+        "title": "The Sources of Social Power",
+        "author": "Michael Mann",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      },
+      {
+        "title": "The Dutch Republic: Its Rise, Greatness and Fall 1477–1806",
+        "author": "Jonathan Israel",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      },
+      {
+        "title": "Early Modern Europe 1450–1789",
+        "author": "Merry Wiesner-Hanks",
+        "status": "Graduate field-exam reading",
+        "note": "Listed in the graduate field-exam reading list; students select a subset.",
+        "source": "https://ablair.hsites.harvard.edu/sites/g/files/omnuum10476/files/ablair/files/blair-3010earlymodernfrancepdf.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected readings, not the full syllabus"
+  },
+  {
+    "id": "stanford-algorithm-design",
+    "institution": "Stanford University",
+    "discipline": "Computer Science",
+    "course": "CS161: Design and Analysis of Algorithms",
+    "term": "Summer 2013",
+    "source": "https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/handouts/010%20Syllabus.pdf",
+    "description": "A rigorous algorithm-design sequence from graph search and shortest paths to computational complexity.",
+    "country": "United States",
+    "sourceType": "Official institutional syllabus or reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Algorithm Design",
+        "author": "Jon Kleinberg and Éva Tardos",
+        "status": "Assigned textbook",
+        "note": "Named on the institution's public syllabus or reading list.",
+        "source": "https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/handouts/010%20Syllabus.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected readings, not the full syllabus"
   }
 ]
