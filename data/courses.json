@@ -1842,5 +1842,197 @@
     ],
     "verifiedAt": "2026-11-21",
     "coverage": "Selected readings, not the full syllabus"
+  },
+  {
+    "id": "brown-neuroscience-intro",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Neuroscience",
+    "course": "An Introduction to the Nervous System",
+    "term": "Fall 2023",
+    "source": "https://coursetools.brown.edu/syllabus/NEUR%3A0010%3A2023-Fall%3AS01",
+    "description": "A comprehensive introduction to neurons, sensory systems, movement, memory, sleep, and consciousness.",
+    "sourceType": "Official institutional syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Neuroscience: Exploring the Brain (4th edition)",
+        "author": "Mark F. Bear, Barry W. Connors and Michael A. Paradiso",
+        "status": "Required textbook",
+        "note": "Chapters 1–7, 9–16, 19, 21–22, and 24–25 assigned across the course",
+        "source": "https://coursetools.brown.edu/syllabus/NEUR%3A0010%3A2023-Fall%3AS01"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "dartmouth-energy-environment",
+    "institution": "Dartmouth College",
+    "country": "United States",
+    "discipline": "Environmental Science",
+    "course": "Energy and Environment",
+    "term": "Winter 2024",
+    "source": "https://envs.dartmouth.edu/sites/department_environmental_studies/files/department_environmental_studies/wysiwyg/envs_12_syllabus_24w.pdf",
+    "description": "Energy systems, engineering, environmental impacts, and the politics and economics of energy transitions.",
+    "sourceType": "Official institutional syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Energy System",
+        "author": "Travis Bradford",
+        "status": "Required textbook",
+        "note": "Chapters assigned throughout the course",
+        "source": "https://envs.dartmouth.edu/sites/department_environmental_studies/files/department_environmental_studies/wysiwyg/envs_12_syllabus_24w.pdf"
+      },
+      {
+        "title": "The Story of More",
+        "author": "Hope Jahren",
+        "status": "Assigned reading",
+        "note": "Energy chapter 10, January 4 and 9",
+        "source": "https://envs.dartmouth.edu/sites/department_environmental_studies/files/department_environmental_studies/wysiwyg/envs_12_syllabus_24w.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "upenn-topics-molecular-medicine",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "Molecular Medicine",
+    "course": "Topics in Molecular Medicine",
+    "term": "2026 schedule",
+    "source": "https://www.med.upenn.edu/timm/syllabus",
+    "description": "A research seminar on vascular disease, HIV cure strategies, STING immunity, AI-assisted drug discovery, and developmental neuroscience.",
+    "sourceType": "Official institutional syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Ischaemic endothelial necroptosis induces haemolysis and COVID-19 angiopathy",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 1",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      },
+      {
+        "title": "CARD8 is an inflammasome sensor for HIV-1 protease activity",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 2",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      },
+      {
+        "title": "The mutational landscape of STING-induced immunity",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 3",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      },
+      {
+        "title": "A multi-agent system for automating scientific discovery",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 5",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      },
+      {
+        "title": "Chemical remodeling of a cellular chaperone to target the active state of mutant KRAS",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 6",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      },
+      {
+        "title": "Dysregulated hippocampal fatty acid metabolism following intermittent hypoxemia-induced neonatal brain injury is rescued by treatment with acetate",
+        "author": "Research article (authors in linked source)",
+        "status": "Assigned research paper",
+        "note": "Session 7",
+        "source": "https://www.med.upenn.edu/timm/syllabus"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "upenn-medicine-history",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "History of Medicine",
+    "course": "Medicine in History",
+    "term": "Summer 2022 (draft syllabus)",
+    "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf",
+    "description": "An unconventional history of medicine told through patients, healers, primary sources, and the social history of disease.",
+    "sourceType": "Official institutional syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Hippocratic Oath",
+        "author": "Hippocrates (translated by Michael North)",
+        "status": "Assigned primary source",
+        "note": "June 30",
+        "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf"
+      },
+      {
+        "title": "Cause and Cure",
+        "author": "Hildegard of Bingen",
+        "status": "Alternative assigned primary source",
+        "note": "July 5; one of two options",
+        "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf"
+      },
+      {
+        "title": "The Florentine Chronicle",
+        "author": "Marchionne di Coppo Stefani",
+        "status": "Alternative assigned primary source",
+        "note": "July 5; one of two options",
+        "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf"
+      },
+      {
+        "title": "When the Birds and the Bees Were Not Enough: Aristotle’s Masterpiece",
+        "author": "Mary Fissell",
+        "status": "Assigned article",
+        "note": "July 7",
+        "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf"
+      },
+      {
+        "title": "The Private Side of Public Health: Sanitary Science, Domestic Hygiene, and the Germ Theory, 1870–1900",
+        "author": "Nancy Tomes",
+        "status": "Assigned article",
+        "note": "July 26",
+        "source": "https://summer.sas.upenn.edu/sites/default/files/2022-03/HSOC-0400-920-draftsyllabus.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "stanford-engineering-product-design",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Engineering",
+    "course": "The Art and Science of Engineering Product Design",
+    "term": "Winter 2019",
+    "source": "https://web.stanford.edu/class/ee15n/",
+    "description": "How engineers design products, organize teams, specify requirements, and understand why complex systems fail.",
+    "sourceType": "Official institutional syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Engineering Design: A Project-Based Introduction (4th edition)",
+        "author": "Clive L. Dym, Patrick Little and Elizabeth Orwin",
+        "status": "Required textbook",
+        "note": "Chapters 1–4, 6–8 and 14–16 assigned by lecture",
+        "source": "https://web.stanford.edu/class/ee15n/"
+      },
+      {
+        "title": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling: Final Report",
+        "author": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling",
+        "status": "Assigned report excerpt",
+        "note": "Why Things Fail lecture",
+        "source": "https://web.stanford.edu/class/ee15n/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected source-listed readings; not the full syllabus"
   }
 ]
