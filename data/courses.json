@@ -279,5 +279,140 @@
     "verifiedAt": "2026-11-21",
     "coverage": "Selected assigned readings; not the full syllabus",
     "sourceLocation": "MIT OCW Fall 2024 Readings and Syllabus"
+  },
+  {
+    "id": "mit-art-probable",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "The Art of the Probable: Literature and Probability",
+    "term": "Spring 2008",
+    "source": "https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/",
+    "sourceType": "official course readings",
+    "status": "source-linked",
+    "description": "An unlikely marriage of literature and mathematics, from ancient tragedy to gambling, chance, and probability.",
+    "readings": [
+      {
+        "title": "Oedipus Rex",
+        "author": "Sophocles",
+        "status": "Assigned · week 1",
+        "note": "Listed in week 1.",
+        "source": "https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Physics, Book II (extracts)",
+        "author": "Aristotle",
+        "status": "Assigned · week 1",
+        "note": "Book II, chapters 1–9.",
+        "source": "https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Book on Games and Chances (selections)",
+        "author": "Gerolamo Cardano",
+        "status": "Assigned · week 2",
+        "note": "Specified sections from the work.",
+        "source": "https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/"
+      },
+      {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "status": "Assigned · week 2",
+        "note": "Listed in week 2.",
+        "source": "https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected assigned readings; not the full syllabus",
+    "sourceLocation": "MIT OpenCourseWare course readings"
+  },
+  {
+    "id": "mit-meaning-life",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology",
+    "course": "The Meaning of Life",
+    "term": "Spring 2019",
+    "source": "https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/",
+    "sourceType": "official course readings",
+    "status": "source-linked",
+    "description": "An anthropological inquiry into happiness, kinship, money, morality, and what makes a life meaningful.",
+    "readings": [
+      {
+        "title": "Lissa: A Story about Medical Promise, Friendship, and Revolution",
+        "author": "Sherine Hamdy and Coleman Nye",
+        "status": "Course text",
+        "note": "Listed in the reading key.",
+        "source": "https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/"
+      },
+      {
+        "title": "Strangers in Their Own Land: Anger and Mourning on the American Right",
+        "author": "Arlie Russell Hochschild",
+        "status": "Course text",
+        "note": "Listed in the reading key.",
+        "source": "https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/"
+      },
+      {
+        "title": "Values of Happiness: Toward an Anthropology of Purpose in Life",
+        "author": "Iza Kavedžija and Harry Walker (eds.)",
+        "status": "Course text",
+        "note": "Listed in the reading key.",
+        "source": "https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/"
+      },
+      {
+        "title": "Wisdom Sits in Places",
+        "author": "Keith H. Basso",
+        "status": "Assigned · session 2",
+        "note": "Chapter 4, What Matters?",
+        "source": "https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected assigned readings; not the full syllabus",
+    "sourceLocation": "MIT OpenCourseWare course readings"
+  },
+  {
+    "id": "mit-food-culture-politics",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology",
+    "course": "Food, Culture & Politics",
+    "term": "Fall 2019",
+    "source": "https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/",
+    "sourceType": "official course readings",
+    "status": "source-linked",
+    "description": "Why eating is political: cheap meat, food authenticity, chocolate, and the cultural rules around dinner.",
+    "readings": [
+      {
+        "title": "Pressure Cooker: Why Home Cooking Won't Solve Our Problems and What We Can Do About It",
+        "author": "Sarah Bowen, Joslyn Brenton, and Sinikka Elliott",
+        "status": "Course text",
+        "note": "Listed in the reading key.",
+        "source": "https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/"
+      },
+      {
+        "title": "Cheap Meat: Flap Food Nations in the Pacific Islands",
+        "author": "Deborah Gewertz and Frederick Errington",
+        "status": "Course text",
+        "note": "Listed in the reading key.",
+        "source": "https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/"
+      },
+      {
+        "title": "The Physiology of Taste (Aphorisms of the Professor)",
+        "author": "Jean Anthelme Brillat-Savarin",
+        "status": "Assigned · lecture 1",
+        "note": "Aphorisms assigned in the introductory lecture.",
+        "source": "https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/"
+      },
+      {
+        "title": "How Sushi Went Global",
+        "author": "Theodore C. Bestor",
+        "status": "Assigned · lecture 5",
+        "note": "Listed under Cheap Meat and Expensive Fish.",
+        "source": "https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected assigned readings; not the full syllabus",
+    "sourceLocation": "MIT OpenCourseWare course readings"
   }
 ]
