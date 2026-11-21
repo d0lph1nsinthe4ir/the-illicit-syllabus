@@ -196,5 +196,88 @@
     "readingSource": "https://directedstudies.yale.edu/sites/default/files/files/DS%20Philosophy%20Spring%2025%20Syllabus.pdf",
     "sourceLocation": "Yale Directed Studies, Spring 2025 Philosophy syllabus PDF, schedule of lectures and readings",
     "coverage": "Selected weekly assignments; not the full syllabus"
+  },
+  {
+    "id": "mit-anthropology-sound",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Anthropology",
+    "course": "The Anthropology of Sound",
+    "term": "Spring 2022",
+    "source": "https://ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/readings/",
+    "sourceType": "official course readings",
+    "status": "source-linked",
+    "description": "How people hear, classify, record, own, and experience sound across cultures, from rainforests to algorithms.",
+    "readings": [
+      {
+        "title": "The Soundscape: Our Sonic Environment and the Tuning of the World — Introduction",
+        "author": "R. Murray Schafer",
+        "status": "Assigned · session 2",
+        "note": "Introduction, listed under Soundscapes, Acoustemologies, Space, Culture.",
+        "source": "https://ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/readings/"
+      },
+      {
+        "title": "A Rainforest Acoustemology",
+        "author": "Steven Feld",
+        "status": "Assigned · session 2",
+        "note": "Chapter 12 in The Auditory Culture Reader.",
+        "source": "https://ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/readings/"
+      },
+      {
+        "title": "The Audible Past: Cultural Origins of Sound Reproduction — Machines to Hear Them",
+        "author": "Jonathan Sterne",
+        "status": "Assigned · session 4",
+        "note": "Chapter 1, listed under Listening Machines.",
+        "source": "https://ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected assigned readings; not the full syllabus",
+    "sourceLocation": "MIT OCW Spring 2022 Readings, sessions 2 and 4"
+  },
+  {
+    "id": "mit-science-fiction-freedom",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "The Science Fiction of Freedom",
+    "term": "Fall 2024",
+    "source": "https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/",
+    "sourceType": "official course readings",
+    "status": "source-linked",
+    "description": "A literature-and-philosophy course exploring freedom through imagined futures, artificial people, and alternate worlds.",
+    "readings": [
+      {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "status": "Required book",
+        "note": "Listed among the course's three required books.",
+        "source": "https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/"
+      },
+      {
+        "title": "Future Home of the Living God",
+        "author": "Louise Erdrich",
+        "status": "Required book",
+        "note": "Listed among the course's three required books.",
+        "source": "https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/"
+      },
+      {
+        "title": "How to Live Safely in a Science Fictional Universe",
+        "author": "Charles Yu",
+        "status": "Required book",
+        "note": "Listed among the course's three required books.",
+        "source": "https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/"
+      },
+      {
+        "title": "The Ones Who Walk Away from Omelas",
+        "author": "Ursula K. Le Guin",
+        "status": "Assigned · session 3",
+        "note": "Listed as a reading in session 3.",
+        "source": "https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected assigned readings; not the full syllabus",
+    "sourceLocation": "MIT OCW Fall 2024 Readings and Syllabus"
   }
 ]
