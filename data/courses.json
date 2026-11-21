@@ -684,5 +684,154 @@
     "verifiedAt": "2026-11-21",
     "coverage": "Selected source-verified assigned readings; not a complete syllabus",
     "sourceLocation": "University of Pittsburgh, SLAV 0880 syllabus and schedule"
+  },
+  {
+    "id": "oxford-brasenose-classics",
+    "institution": "University of Oxford — Brasenose College",
+    "country": "United Kingdom",
+    "discipline": "Classics",
+    "course": "Classics: An Oxford Reading List",
+    "term": "2026 preparatory reading",
+    "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/",
+    "sourceType": "official college preparatory reading list",
+    "status": "source-linked",
+    "description": "Homer, Ovid, Plato, and the ancient world: texts recommended to incoming Oxford classicists.",
+    "readings": [
+      {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Recommended Oxford World’s Classics translation by Verity",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Recommended Oxford World’s Classics translation by Melville",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Apology",
+        "author": "Plato",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Recommended Grube translation revised by Cooper",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Classics: A Very Short Introduction",
+        "author": "Mary Beard and John Henderson",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested introductory reading",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected recommendations from Brasenose College's 2026 preparatory reading list, not a complete syllabus",
+    "sourceLocation": "Brasenose College, 2026 undergraduate preparatory reading"
+  },
+  {
+    "id": "oxford-brasenose-biology",
+    "institution": "University of Oxford — Brasenose College",
+    "country": "United Kingdom",
+    "discipline": "Biology",
+    "course": "Biology: Evolution and Living Systems",
+    "term": "2026 preparatory reading",
+    "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/",
+    "sourceType": "official college preparatory reading list",
+    "status": "source-linked",
+    "description": "Evolution, fungi, epidemics, and ecological relationships, through books recommended to incoming biology students.",
+    "readings": [
+      {
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested evolutionary biology reading; not required",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Entangled Life",
+        "author": "Merlin Sheldrake",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested microbial and fungal biology reading",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Spillover",
+        "author": "David Quammen",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading on microbial and disease biology",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "I Contain Multitudes",
+        "author": "Ed Yong",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading on microbiomes",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "The Rules of Contagion",
+        "author": "Adam Kucharski",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading on infectious disease",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected recommendations from Brasenose College's 2026 preparatory reading list, not a complete syllabus",
+    "sourceLocation": "Brasenose College, 2026 undergraduate preparatory reading"
+  },
+  {
+    "id": "oxford-brasenose-fine-art",
+    "institution": "University of Oxford — Brasenose College",
+    "country": "United Kingdom",
+    "discipline": "Art History",
+    "course": "Fine Art: Looking and Thinking",
+    "term": "2026 preparatory reading",
+    "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/",
+    "sourceType": "official college preparatory reading list",
+    "status": "source-linked",
+    "description": "Art criticism, photography, feminism, monuments, and the politics of contemporary art.",
+    "readings": [
+      {
+        "title": "Camera Lucida",
+        "author": "Roland Barthes",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading; not a set text",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Why Have There Been No Great Women Artists?",
+        "author": "Linda Nochlin",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading; not a set text",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "On Photography",
+        "author": "Susan Sontag",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading; not a set text",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "Glitch Feminism: A Manifesto",
+        "author": "Legacy Russell",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading; not a set text",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      },
+      {
+        "title": "The Mushroom at the End of the World",
+        "author": "Anna Lowenhaupt Tsing",
+        "status": "Preparatory recommendation · not assigned coursework",
+        "note": "Suggested reading; not a set text",
+        "source": "https://www.bnc.ox.ac.uk/freshers-welcome/undergraduate-landing-page/useful-information-before-starting/reading-lists/"
+      }
+    ],
+    "verifiedAt": "2026-11-21",
+    "coverage": "Selected recommendations from Brasenose College's 2026 preparatory reading list, not a complete syllabus",
+    "sourceLocation": "Brasenose College, 2026 undergraduate preparatory reading"
   }
 ]
