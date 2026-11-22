@@ -2875,5 +2875,199 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected source-listed readings; not the full bibliography"
+  },
+  {
+    "id": "brown-complit-latin",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Classical literature",
+    "course": "Comparative Literature Graduate Reading List: Latin",
+    "term": "Graduate program reading list (undated)",
+    "source": "https://complit.brown.edu/graduate-program/reading-lists",
+    "description": "Latin literature from epic and poetry to Roman history, satire, philosophy, and religious writing.",
+    "sourceType": "Official Brown Comparative Literature graduate reading list (departmental, not a course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Confessions",
+        "author": "Augustine of Hippo",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Aeneid",
+        "author": "Virgil",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Eclogues",
+        "author": "Virgil",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Georgics",
+        "author": "Virgil",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "The Vulgate",
+        "author": "Latin Bible",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected explicitly named works from Brown's broader tradition-based list; many other entries specify authors or genres without identifying individual works"
+  },
+  {
+    "id": "brown-complit-greek",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Classical literature",
+    "course": "Comparative Literature Graduate Reading List: Greek",
+    "term": "Graduate program reading list (undated)",
+    "source": "https://complit.brown.edu/graduate-program/reading-lists",
+    "description": "Greek epic and poetry in Brown's graduate comparative-literature reading framework.",
+    "sourceType": "Official Brown Comparative Literature graduate reading list (departmental, not a course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Iliad",
+        "author": "Homer",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Odyssey",
+        "author": "Homer",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected explicitly named works from Brown's broader tradition-based list; many other entries specify authors or genres without identifying individual works"
+  },
+  {
+    "id": "brown-complit-british",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Comparative Literature Graduate Reading List: British Literature",
+    "term": "Graduate program reading list (undated)",
+    "source": "https://complit.brown.edu/graduate-program/reading-lists",
+    "description": "A chronological survey from Old and Middle English literature through modernism and postwar writing.",
+    "sourceType": "Official Brown Comparative Literature graduate reading list (departmental, not a course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Beowulf",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "The Seafarer",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Sir Gawain and the Green Knight",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected explicitly named works from Brown's broader tradition-based list; many other entries specify authors or genres without identifying individual works"
+  },
+  {
+    "id": "brown-complit-french",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Comparative Literature Graduate Reading List: French Literature",
+    "term": "Graduate program reading list (undated)",
+    "source": "https://complit.brown.edu/graduate-program/reading-lists",
+    "description": "A broad French-language literary tradition, from medieval epic to modern and postcolonial thought.",
+    "sourceType": "Official Brown Comparative Literature graduate reading list (departmental, not a course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "La Chanson de Roland",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Discours sur le colonialisme",
+        "author": "Aimé Césaire",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Peau noire, masques blancs",
+        "author": "Frantz Fanon",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Éloge de la créolité",
+        "author": "Jean Bernabé, Patrick Chamoiseau, and Raphaël Confiant",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Portrait du colonisé, précédé du portrait du colonisateur",
+        "author": "Albert Memmi",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected explicitly named works from Brown's broader tradition-based list; many other entries specify authors or genres without identifying individual works"
+  },
+  {
+    "id": "brown-complit-spanish",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Comparative Literature Graduate Reading List: Spanish Literature",
+    "term": "Graduate program reading list (undated)",
+    "source": "https://complit.brown.edu/graduate-program/reading-lists",
+    "description": "Medieval Iberian literature and Spanish-language literary traditions extending into Latin America.",
+    "sourceType": "Official Brown Comparative Literature graduate reading list (departmental, not a course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Poema de Mío Cid",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Libro de buen amor",
+        "author": "Juan Ruiz (Arcipreste de Hita)",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      },
+      {
+        "title": "Lazarillo de Tormes",
+        "author": "Anonymous",
+        "status": "Department-listed work",
+        "source": "https://complit.brown.edu/graduate-program/reading-lists"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected explicitly named works from Brown's broader tradition-based list; many other entries specify authors or genres without identifying individual works"
   }
 ]
