@@ -3507,5 +3507,433 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected listed texts and course-packet readings; refer to source for complete assignments"
+  },
+  {
+    "id": "columbia-political-theory-core",
+    "institution": "Columbia University",
+    "country": "United States",
+    "discipline": "Political philosophy",
+    "course": "Political Theory Comprehensive Examination: Core List",
+    "term": "Date not specified for selected list",
+    "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf",
+    "description": "Official political science graduate comprehensive examination reading list, core section",
+    "sourceType": "Official political science graduate comprehensive examination reading list, core section",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "A Theory of Justice",
+        "author": "John Rawls",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "On Revolution",
+        "author": "Hannah Arendt",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Discipline and Punish",
+        "author": "Michel Foucault",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Structural Transformation of the Public Sphere",
+        "author": "Jürgen Habermas",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Concept of the Political",
+        "author": "Carl Schmitt",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Great Transformation",
+        "author": "Karl Polanyi",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Two Concepts of Liberty",
+        "author": "Isaiah Berlin",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "On the Genealogy of Morals",
+        "author": "Friedrich Nietzsche",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Philosophy of Right",
+        "author": "G. W. F. Hegel",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the cited source; not the complete reading list"
+  },
+  {
+    "id": "columbia-democracy-alternatives",
+    "institution": "Columbia University",
+    "country": "United States",
+    "discipline": "Political theory",
+    "course": "Political Theory Comprehensive Examination: Democracy and Its Alternatives",
+    "term": "Date not specified for selected list",
+    "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf",
+    "description": "Official political science graduate comprehensive examination reading list, Satellite 2",
+    "sourceType": "Official political science graduate comprehensive examination reading list, Satellite 2",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Considerations on Representative Government",
+        "author": "John Stuart Mill",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Crisis of Parliamentary Democracy",
+        "author": "Carl Schmitt",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "A Preface to Democratic Theory",
+        "author": "Robert Dahl",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Democracy and Its Critics",
+        "author": "Robert Dahl",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Democracy and Political Theory",
+        "author": "Claude Lefort",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Concept of Representation",
+        "author": "Hanna Fenichel Pitkin",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Principles of Representative Government",
+        "author": "Bernard Manin",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Democracy and the Market",
+        "author": "Adam Przeworski",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Modern Prince",
+        "author": "Antonio Gramsci",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Power Elite",
+        "author": "C. Wright Mills",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "The Origins of Totalitarianism",
+        "author": "Hannah Arendt",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      },
+      {
+        "title": "Counter-Democracy: Politics in an Age of Distrust",
+        "author": "Pierre Rosanvallon",
+        "status": "Source-listed reading",
+        "source": "https://polisci.columbia.edu/sites/polisci.columbia.edu/files/content/pdfs/Comps/PT%20comps%20revised%20reading%20list%20final%20%28Nov%202020%29.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the cited source; not the complete reading list"
+  },
+  {
+    "id": "stanford-philosophy-literature",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Philosophy and literature",
+    "course": "Philosophy and Literature (PHIL 81): Sample Syllabus",
+    "term": "Date not specified for selected list",
+    "source": "https://philit.stanford.edu/undergraduates/gateway-course",
+    "description": "Official Stanford Philosophy and Literature gateway course sample syllabus",
+    "sourceType": "Official Stanford Philosophy and Literature gateway course sample syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Ignorance",
+        "author": "Milan Kundera",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "A Mercy",
+        "author": "Toni Morrison",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "The World as Will and Representation",
+        "author": "Arthur Schopenhauer",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "The Birth of Tragedy",
+        "author": "Friedrich Nietzsche",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "What Is an Author?",
+        "author": "Michel Foucault",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "The Death of the Author",
+        "author": "Roland Barthes",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "Pierre Menard, Author of the Quixote",
+        "author": "Jorge Luis Borges",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "Fearing Fictions",
+        "author": "Kendall Walton",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "Mimesis as Make-Believe",
+        "author": "Kendall Walton",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "What Metaphors Mean",
+        "author": "Donald Davidson",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "Krapp's Last Tape",
+        "author": "Samuel Beckett",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      },
+      {
+        "title": "Nausea",
+        "author": "Jean-Paul Sartre",
+        "status": "Source-listed reading",
+        "source": "https://philit.stanford.edu/undergraduates/gateway-course"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the cited source; not the complete reading list"
+  },
+  {
+    "id": "upenn-postcolonial-studies",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "Literature and cultural studies",
+    "course": "Postcolonial Studies: Graduate 50-Book Examination List",
+    "term": "Date not specified for selected list",
+    "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list",
+    "description": "Official Penn English graduate examination reading list, Postcolonial Studies section",
+    "sourceType": "Official Penn English graduate examination reading list, Postcolonial Studies section",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "A Tempest",
+        "author": "Aimé Césaire",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Season of Migration to the North",
+        "author": "Tayeb Salih",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Petals of Blood",
+        "author": "Ngũgĩ wa Thiong'o",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Waiting for the Barbarians",
+        "author": "J. M. Coetzee",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Nervous Conditions",
+        "author": "Tsitsi Dangarembga",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "A Small Place",
+        "author": "Jamaica Kincaid",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Decolonising the Mind: The Politics of Language in African Literature",
+        "author": "Ngũgĩ wa Thiong'o",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "The Wretched of the Earth",
+        "author": "Frantz Fanon",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Culture and Imperialism",
+        "author": "Edward Said",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Imagined Communities",
+        "author": "Benedict Anderson",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the cited source; not the complete reading list"
+  },
+  {
+    "id": "upenn-contemporary-poetry",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Contemporary Poetry and Poetics: Graduate 50-Book Examination List",
+    "term": "Date not specified for selected list",
+    "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list",
+    "description": "Official Penn English graduate examination reading list, Contemporary Poetry & Poetics section",
+    "sourceType": "Official Penn English graduate examination reading list, Contemporary Poetry & Poetics section",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Tender Buttons",
+        "author": "Gertrude Stein",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Songs to Joannes",
+        "author": "Mina Loy",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Trilogy",
+        "author": "H. D.",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Montage of a Dream Deferred",
+        "author": "Langston Hughes",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Lunch Poems",
+        "author": "Frank O'Hara",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Diving into the Wreck",
+        "author": "Adrienne Rich",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "My Life",
+        "author": "Lyn Hejinian",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "My Emily Dickinson",
+        "author": "Susan Howe",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Sleeping with the Dictionary",
+        "author": "Harryette Mullen",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Zong!",
+        "author": "M. NourbeSe Philip",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "Life on Mars",
+        "author": "Tracy K. Smith",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      },
+      {
+        "title": "The Place of Scraps",
+        "author": "Jordan Abel",
+        "status": "Source-listed reading",
+        "source": "https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the cited source; not the complete reading list"
   }
 ]
