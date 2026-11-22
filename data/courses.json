@@ -2034,5 +2034,527 @@
     ],
     "verifiedAt": "2026-11-21",
     "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "mit-fairy-tale-abuse",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Popular Culture and Narrative: Use and Abuse of the Fairy Tale",
+    "term": "Fall 2015",
+    "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/",
+    "description": "A disquieting exploration of fairy tales, from folklore and psychoanalysis to the politics of storytelling and Angela Carter's revisions.",
+    "sourceType": "Official MIT OpenCourseWare reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Bloody Chamber and Other Stories",
+        "author": "Angela Carter",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      },
+      {
+        "title": "Morphology of the Folktale",
+        "author": "Vladimir Propp",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      },
+      {
+        "title": "The Secret Commonwealth of Elves, Fauns and Fairies",
+        "author": "Robert Kirk",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      },
+      {
+        "title": "The Uses of Enchantment",
+        "author": "Bruno Bettelheim",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      },
+      {
+        "title": "The Interpretation of Fairy Tales",
+        "author": "Marie-Louise von Franz",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      },
+      {
+        "title": "The Classic Fairy Tales",
+        "author": "Maria Tatar (editor)",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "mit-psychogeography",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Cultural Studies",
+    "course": "Wanderings in Psychogeography",
+    "term": "Fall 2020",
+    "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/",
+    "description": "A syllabus for getting lost: Situationism, memory, cities, surrealism, walking, and altered states.",
+    "sourceType": "Official MIT OpenCourseWare reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Theory of the Dérive",
+        "author": "Guy Debord",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      },
+      {
+        "title": "Introduction to a Critique of Urban Geography",
+        "author": "Guy Debord",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      },
+      {
+        "title": "Invisible Cities",
+        "author": "Italo Calvino",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      },
+      {
+        "title": "Lud Heat",
+        "author": "Iain Sinclair",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      },
+      {
+        "title": "Confessions of an English Opium Eater",
+        "author": "Thomas De Quincey",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      },
+      {
+        "title": "The Beach Beneath the Street",
+        "author": "McKenzie Wark",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "coastal-monstrosity",
+    "institution": "Coastal Carolina University",
+    "country": "United States",
+    "discipline": "Cultural Studies",
+    "course": "Monstrosity: Anxiety, Desire, Difference",
+    "term": "Proposed syllabus",
+    "source": "https://www.coastal.edu/forms/provost/academic/undergradforms/file_uploads/1682_132537_proposed_syllabus.pdf",
+    "description": "Monsters as embodiments of cultural anxiety, difference, and forbidden desire, with a particular emphasis on vampires.",
+    "sourceType": "Official university-hosted proposed syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Dracula",
+        "author": "Bram Stoker (Nina Auerbach and David Skal, editors)",
+        "status": "Source-listed reading",
+        "source": "https://www.coastal.edu/forms/provost/academic/undergradforms/file_uploads/1682_132537_proposed_syllabus.pdf"
+      },
+      {
+        "title": "Interview with the Vampire",
+        "author": "Anne Rice",
+        "status": "Source-listed reading",
+        "source": "https://www.coastal.edu/forms/provost/academic/undergradforms/file_uploads/1682_132537_proposed_syllabus.pdf"
+      },
+      {
+        "title": "Cultural Studies: Theory and Practice",
+        "author": "Chris Barker",
+        "status": "Source-listed reading",
+        "source": "https://www.coastal.edu/forms/provost/academic/undergradforms/file_uploads/1682_132537_proposed_syllabus.pdf"
+      },
+      {
+        "title": "Monster Culture (Seven Theses)",
+        "author": "Jeffrey Jerome Cohen",
+        "status": "Source-listed reading",
+        "source": "https://www.coastal.edu/forms/provost/academic/undergradforms/file_uploads/1682_132537_proposed_syllabus.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "ufl-victorian-decadence",
+    "institution": "University of Florida",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Toward Modernism: Colonizing Monstrosity in the Victorian Fin de Siècle",
+    "term": "2010",
+    "source": "https://abcdocz.com/doc/673061/syllabus---clas-users",
+    "description": "A reading list steeped in decadence, aestheticism, Victorian grotesquerie, and the uneasy birth of modernism.",
+    "sourceType": "Third-party mirror of university course syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Renaissance",
+        "author": "Walter Pater",
+        "status": "Source-listed reading",
+        "source": "https://abcdocz.com/doc/673061/syllabus---clas-users"
+      },
+      {
+        "title": "The Ballad of Reading Gaol and Other Poems",
+        "author": "Oscar Wilde",
+        "status": "Source-listed reading",
+        "source": "https://abcdocz.com/doc/673061/syllabus---clas-users"
+      },
+      {
+        "title": "Lady Windermere's Fan",
+        "author": "Oscar Wilde",
+        "status": "Source-listed reading",
+        "source": "https://abcdocz.com/doc/673061/syllabus---clas-users"
+      },
+      {
+        "title": "Salome: Aubrey Beardsley and Oscar Wilde",
+        "author": "Aubrey Beardsley and Oscar Wilde",
+        "status": "Source-listed reading",
+        "source": "https://abcdocz.com/doc/673061/syllabus---clas-users"
+      },
+      {
+        "title": "Selected Poems and Two Plays of W. B. Yeats",
+        "author": "W. B. Yeats (M. L. Rosenthal, editor)",
+        "status": "Source-listed reading",
+        "source": "https://abcdocz.com/doc/673061/syllabus---clas-users"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "harvard-conspiracies",
+    "institution": "Harvard University",
+    "country": "United States",
+    "discipline": "Cultural History",
+    "course": "Thinking with Conspiracies",
+    "term": "Spring 2024",
+    "source": "https://writingprogram.fas.harvard.edu/resource/thinkingwithconspiraciessyllabuspdf",
+    "description": "An investigation of how conspiracy narratives spread, from the medieval antisemitic blood libel to contemporary pseudoarchaeology.",
+    "sourceType": "Official Harvard syllabus preview",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "On Everyone's Lips: Humanists, Jews, and the Tale of Simon of Trent (primary-source letter)",
+        "author": "Giovanni Mattia Tiberino; translated by Stephen D. Bowd and J. Donald Cullington",
+        "status": "Source-listed reading",
+        "source": "https://writingprogram.fas.harvard.edu/resource/thinkingwithconspiraciessyllabuspdf"
+      },
+      {
+        "title": "Blood Libel: On the Trail of an Antisemitic Myth (selected chapter)",
+        "author": "Magda Teter",
+        "status": "Source-listed reading",
+        "source": "https://writingprogram.fas.harvard.edu/resource/thinkingwithconspiraciessyllabuspdf"
+      },
+      {
+        "title": "Trust No One: Modernization, Paranoia and Conspiracy Culture",
+        "author": "Stef Aupers",
+        "status": "Source-listed reading",
+        "source": "https://writingprogram.fas.harvard.edu/resource/thinkingwithconspiraciessyllabuspdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "mit-supernatural-music",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music and Literature",
+    "course": "The Supernatural in Music, Literature and Culture",
+    "term": "Fall 2013",
+    "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/",
+    "description": "Witchcraft, Faustian bargains, spirit photography, and Gothic ghosts across literature, opera, and music.",
+    "sourceType": "Official MIT OpenCourseWare reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      },
+      {
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      },
+      {
+        "title": "The Turn of the Screw",
+        "author": "Henry James",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      },
+      {
+        "title": "Witches & Neighbors",
+        "author": "Robin Briggs",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      },
+      {
+        "title": "Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America",
+        "author": "Ann Braude",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      },
+      {
+        "title": "The Perfect Medium: Photography and the Occult",
+        "author": "Clément Chéroux and others (editors)",
+        "status": "Source-listed reading",
+        "source": "https://ocw.mit.edu/courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/pages/readings-and-music/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "ufl-psychoanalysis-literature",
+    "institution": "University of Florida",
+    "country": "United States",
+    "discipline": "Literature and Psychoanalysis",
+    "course": "Psychoanalysis and Literature",
+    "term": "Term not stated",
+    "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf",
+    "description": "Freud, Klein, Winnicott, and Lacan read alongside Poe, Wilde, Shakespeare, and Anaïs Nin.",
+    "sourceType": "Official university-hosted reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Analysis of a Phobia in a Five-Year-Old Boy",
+        "author": "Sigmund Freud",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "The Selected Melanie Klein (assigned essays)",
+        "author": "Melanie Klein",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "Playing and Reality (assigned chapters)",
+        "author": "D. W. Winnicott",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "The Purloined Letter",
+        "author": "Edgar Allan Poe",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "Seminar on The Purloined Letter",
+        "author": "Jacques Lacan",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      },
+      {
+        "title": "Winter of Artifice",
+        "author": "Anaïs Nin",
+        "status": "Source-listed reading",
+        "source": "https://english.ufl.edu/wp-content/uploads/sites/45/ENG4015_0926_Rudnytsky.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "bu-greek-roman-religion",
+    "institution": "Boston University",
+    "country": "United States",
+    "discipline": "Classics and Religion",
+    "course": "Greek and Roman Religion",
+    "term": "Fall 2007",
+    "source": "https://people.bu.edu/varhelyi/6CL317sy.html",
+    "description": "Ancient pollution and purification, mystery cults, divine ritual, and the religious imagination of Greece and Rome.",
+    "sourceType": "Official faculty-hosted course syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Miasma: Pollution and Purification in Early Greek Religion",
+        "author": "Robert Parker",
+        "status": "Source-listed reading",
+        "source": "https://people.bu.edu/varhelyi/6CL317sy.html"
+      },
+      {
+        "title": "The Religion of the Mithras Cult in the Roman Empire",
+        "author": "Roger Beck",
+        "status": "Source-listed reading",
+        "source": "https://people.bu.edu/varhelyi/6CL317sy.html"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "uta-american-gothic",
+    "institution": "University of Texas at Arlington",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "American Gothic",
+    "term": "Spring 2015",
+    "source": "https://mentis.uta.edu/dashboard/file/download/id/165616",
+    "description": "The uncanny, abjection, haunting, and the transatlantic literary imagination of American Gothic.",
+    "sourceType": "Official university-hosted syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Behind a Mask: The Unknown Thrillers",
+        "author": "Louisa May Alcott",
+        "status": "Source-listed reading",
+        "source": "https://mentis.uta.edu/dashboard/file/download/id/165616"
+      },
+      {
+        "title": "Edgar Huntly",
+        "author": "Charles Brockden Brown",
+        "status": "Source-listed reading",
+        "source": "https://mentis.uta.edu/dashboard/file/download/id/165616"
+      },
+      {
+        "title": "Young Goodman Brown and Other Short Stories",
+        "author": "Nathaniel Hawthorne",
+        "status": "Source-listed reading",
+        "source": "https://mentis.uta.edu/dashboard/file/download/id/165616"
+      },
+      {
+        "title": "The Private Memoirs and Confessions of a Justified Sinner",
+        "author": "James Hogg",
+        "status": "Source-listed reading",
+        "source": "https://mentis.uta.edu/dashboard/file/download/id/165616"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "upenn-folklore-supernatural",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "Folklore",
+    "course": "Folklore and the Supernatural",
+    "term": "Spring 2019",
+    "source": "https://www.academia.edu/38207553/Folklore_and_the_Supernatural_University_of_Pennsylvania_Liberal_and_Professional_Studies_Spring_2019_",
+    "description": "Sleep paralysis, internet legends, ghosts, dark tourism, and the anthropology of supernatural belief.",
+    "sourceType": "Third-party academic-hosted copy of syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Sleep Paralysis: Night-mares, Nocebos, and the Mind-Body Connection",
+        "author": "Shelley R. Adler",
+        "status": "Source-listed reading",
+        "source": "https://www.academia.edu/38207553/Folklore_and_the_Supernatural_University_of_Pennsylvania_Liberal_and_Professional_Studies_Spring_2019_"
+      },
+      {
+        "title": "Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet",
+        "author": "Trevor J. Blank and Lynne S. McNeill",
+        "status": "Source-listed reading",
+        "source": "https://www.academia.edu/38207553/Folklore_and_the_Supernatural_University_of_Pennsylvania_Liberal_and_Professional_Studies_Spring_2019_"
+      },
+      {
+        "title": "Putting the Supernatural in Its Place",
+        "author": "Jeannie Banks Thomas",
+        "status": "Source-listed reading",
+        "source": "https://www.academia.edu/38207553/Folklore_and_the_Supernatural_University_of_Pennsylvania_Liberal_and_Professional_Studies_Spring_2019_"
+      },
+      {
+        "title": "The Supernatural in Society, Culture, and History",
+        "author": "Dennis Waskul and Marc Eaton",
+        "status": "Source-listed reading",
+        "source": "https://www.academia.edu/38207553/Folklore_and_the_Supernatural_University_of_Pennsylvania_Liberal_and_Professional_Studies_Spring_2019_"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "ucsc-utopia-dystopia",
+    "institution": "University of California, Santa Cruz",
+    "country": "United States",
+    "discipline": "Political Philosophy",
+    "course": "Topics in Contemporary Political and Critical Theory: Utopia and Dystopia",
+    "term": "Summer 2015",
+    "source": "https://summer.ucsc.edu/courses/course-syllabi/2015/poli-118-syllabus-summer-2015.pdf",
+    "description": "Utopian communities and dystopian literature as laboratories for political philosophy, radical critique, and the imagination.",
+    "sourceType": "Official university-hosted syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Utopia",
+        "author": "Thomas More",
+        "status": "Source-listed reading",
+        "source": "https://summer.ucsc.edu/courses/course-syllabi/2015/poli-118-syllabus-summer-2015.pdf"
+      },
+      {
+        "title": "News from Nowhere",
+        "author": "William Morris",
+        "status": "Source-listed reading",
+        "source": "https://summer.ucsc.edu/courses/course-syllabi/2015/poli-118-syllabus-summer-2015.pdf"
+      },
+      {
+        "title": "Looking Backward",
+        "author": "Edward Bellamy",
+        "status": "Source-listed reading",
+        "source": "https://summer.ucsc.edu/courses/course-syllabi/2015/poli-118-syllabus-summer-2015.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "jcu-living-good-life",
+    "institution": "John Cabot University",
+    "country": "Italy",
+    "discipline": "Philosophy",
+    "course": "Living the Good Life: Religion and Philosophical Ethics",
+    "term": "Spring 2025",
+    "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745",
+    "description": "An inquiry into the good life that turns toward pessimism, antinatalism, mortality, and the prospect of immortality.",
+    "sourceType": "Official university syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "On the Sufferings of the World",
+        "author": "Arthur Schopenhauer",
+        "status": "Source-listed reading",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745"
+      },
+      {
+        "title": "Why It Is Better Never to Come into Existence",
+        "author": "David Benatar",
+        "status": "Source-listed reading",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745"
+      },
+      {
+        "title": "Death",
+        "author": "Thomas Nagel",
+        "status": "Source-listed reading",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745"
+      },
+      {
+        "title": "The Makropulos Case: Reflections on the Tedium of Immortality",
+        "author": "Bernard Williams",
+        "status": "Source-listed reading",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745"
+      },
+      {
+        "title": "Meaning in Life and Why It Matters",
+        "author": "Susan Wolf",
+        "status": "Source-listed reading",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?ids=22745"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full syllabus"
   }
 ]
