@@ -4787,5 +4787,257 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "ufl-music-global-politics",
+    "institution": "University of Florida",
+    "country": "United States",
+    "discipline": "Music and politics",
+    "course": "Music and Global Politics",
+    "term": "Fall 2020",
+    "source": "https://polisci.ufl.edu/wp-content/uploads/sites/318/Syllabus-Fall-2020-1.pdf",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Rebel Music",
+        "author": "Hisham D. Aidi",
+        "status": "Source-listed reading or reference",
+        "source": "https://polisci.ufl.edu/wp-content/uploads/sites/318/Syllabus-Fall-2020-1.pdf"
+      },
+      {
+        "title": "Satchmo Blows Up the World",
+        "author": "Penny M. Von Eschen",
+        "status": "Source-listed reading or reference",
+        "source": "https://polisci.ufl.edu/wp-content/uploads/sites/318/Syllabus-Fall-2020-1.pdf"
+      },
+      {
+        "title": "Music, the Brain, and Ecstasy",
+        "author": "Robert Jourdain",
+        "status": "Source-listed reading or reference",
+        "source": "https://polisci.ufl.edu/wp-content/uploads/sites/318/Syllabus-Fall-2020-1.pdf"
+      },
+      {
+        "title": "Keeping Together in Time",
+        "author": "William H. McNeill",
+        "status": "Source-listed reading or reference",
+        "source": "https://polisci.ufl.edu/wp-content/uploads/sites/318/Syllabus-Fall-2020-1.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "mit-popular-musics-world",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music and culture",
+    "course": "Popular Musics of the World",
+    "term": "Spring 2005",
+    "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Global Pop",
+        "author": "Timothy D. Taylor",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "Popular Musics of the Non-Western World",
+        "author": "Peter Manuel",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "Nationalists, Cosmopolitans, and Popular Music in Zimbabwe",
+        "author": "Thomas Turino",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "Global Noise",
+        "author": "Tony Mitchell (editor)",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "The Voice of Egypt",
+        "author": "Virginia Danielson",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "Reggae Routes",
+        "author": "Kevin O'Brien Chang and Wayne Chen",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      },
+      {
+        "title": "West African Pop Roots",
+        "author": "John Collins",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-294-popular-musics-of-the-world-spring-2005/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "mit-hip-hop",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music and cultural studies",
+    "course": "Hip Hop",
+    "term": "Fall 2007",
+    "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Hip Hop Matters",
+        "author": "S. Craig Watkins",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/"
+      },
+      {
+        "title": "That's the Joint!",
+        "author": "Murray Forman and Mark Anthony Neal (editors)",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/"
+      },
+      {
+        "title": "What Is This 'Black' in Black Popular Culture?",
+        "author": "Stuart Hall",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/"
+      },
+      {
+        "title": "The Black Beat Made Visible",
+        "author": "Thomas F. DeFrantz",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/"
+      },
+      {
+        "title": "Dance in Hip Hop Culture",
+        "author": "Katrina Hazzard-Donald",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "mit-music-since-1960",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music history and aesthetics",
+    "course": "Music Since 1960",
+    "term": "Spring 2006",
+    "source": "https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/readings/",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Talking Music",
+        "author": "William Duckworth",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/readings/"
+      },
+      {
+        "title": "Modern Music and After",
+        "author": "Paul Griffiths",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/readings/"
+      },
+      {
+        "title": "Contemporary Composers on Contemporary Music",
+        "author": "Elliott Schwartz and Barney Childs (editors)",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "mit-musical-improvisation",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music and performance",
+    "course": "Musical Improvisation",
+    "term": "Spring 2013",
+    "source": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/pages/readings-and-listening/",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Thinking in Jazz",
+        "author": "Paul F. Berliner",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/pages/readings-and-listening/"
+      },
+      {
+        "title": "The Improvisational Mind",
+        "author": "Aaron Berkowitz",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/pages/readings-and-listening/"
+      },
+      {
+        "title": "Saying Something",
+        "author": "Ingrid Monson",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/pages/readings-and-listening/"
+      },
+      {
+        "title": "Notations",
+        "author": "John Cage",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-355-musical-improvisation-spring-2013/pages/readings-and-listening/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "mit-modern-music-1900-1960",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Music history and aesthetics",
+    "course": "Modern Music: 1900–1960",
+    "term": "Fall 2006",
+    "source": "https://ocw.mit.edu/courses/21m-262-modern-music-1900-1960-fall-2006/pages/readings/",
+    "description": "Music studied through its artistic, cultural, and historical contexts.",
+    "sourceType": "Official university course readings or syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Twentieth-Century Music",
+        "author": "Robert P. Morgan",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-262-modern-music-1900-1960-fall-2006/pages/readings/"
+      },
+      {
+        "title": "Poetics of Music",
+        "author": "Igor Stravinsky",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-262-modern-music-1900-1960-fall-2006/pages/readings/"
+      },
+      {
+        "title": "New Musical Resources",
+        "author": "Henry Cowell",
+        "status": "Source-listed reading or reference",
+        "source": "https://ocw.mit.edu/courses/21m-262-modern-music-1900-1960-fall-2006/pages/readings/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
   }
 ]
