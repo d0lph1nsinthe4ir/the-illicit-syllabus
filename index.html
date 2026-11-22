@@ -1,4 +1,4 @@
-<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#242321"><script>
+<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#21150f"><script>
 try {
   if (localStorage.getItem('illicit-syllabus-theme') === 'light') {
     document.documentElement.dataset.theme = 'light';
@@ -203,10 +203,10 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 :root[data-theme="dark"] .theme-toggle .bulb-glass{fill:none}
 :root[data-theme="dark"] .theme-toggle .bulb-rays{visibility:hidden}
 
-:root[data-theme="dark"]{--dark-page:#242321;--dark-panel:#2d2a26;--dark-text:#f5ebdd;--dark-muted:#d2c5b3;--dark-accent:#c9987f;--dark-maroon:#703a32;--dark-maroon-hover:#85483c;--dark-line:#605548}
+:root[data-theme="dark"]{--dark-page:#21150f;--dark-panel:#2d2018;--dark-text:#f5ebdd;--dark-muted:#d2c5b3;--dark-accent:#c9987f;--dark-maroon:#703a32;--dark-maroon-hover:#85483c;--dark-line:#644938}
 :root[data-theme="dark"] body{background:var(--dark-page);color:var(--dark-text)}
-:root[data-theme="dark"] header{background:#211f1ded;border-color:var(--dark-line)}
-:root[data-theme="dark"] footer{background:#211f1d;border-color:var(--dark-line);color:var(--dark-muted)}
+:root[data-theme="dark"] header{background:#1a100bed;border-color:var(--dark-line)}
+:root[data-theme="dark"] footer{background:#1a100b;border-color:var(--dark-line);color:var(--dark-muted)}
 :root[data-theme="dark"] .brand-emblem,
 :root[data-theme="dark"] .footer-emblem{background:#f4e9da;border-radius:24%;padding:4px}
 :root[data-theme="dark"] .footer-emblem{padding:10px}
@@ -341,7 +341,7 @@ document.addEventListener('click',e=>{const topic=e.target.closest('[data-topic]
     const label = dark ? 'Switch to light mode' : 'Switch to dark mode';
     toggle.setAttribute('aria-label', label);
     toggle.title = label;
-    themeColor.content = dark ? '#242321' : '#f6f0e6';
+    themeColor.content = dark ? '#21150f' : '#f6f0e6';
   }
   toggle.addEventListener('click', () => {
     root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
