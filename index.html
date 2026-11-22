@@ -219,7 +219,7 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 :root[data-theme="dark"] .discovery>.eyebrow,
 :root[data-theme="dark"] .section-top .eyebrow,
 :root[data-theme="dark"] .clear-filters{color:var(--dark-accent)}
-:root[data-theme="dark"] :is(.course-card,.topic-card,.rabbit-card,.dialog,.drawer article,.filters input,.filters select){color:var(--ink)}
+:root[data-theme="dark"] :is(.rabbit-card,.dialog,.drawer article,.filters input,.filters select){color:var(--ink)}
 :root[data-theme="dark"] .course-card{box-shadow:3px 4px 0 #171513}
 :root[data-theme="dark"] .course-card:hover{box-shadow:6px 9px 0 #171513}
 @media(max-width:580px){
@@ -249,6 +249,28 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 :root[data-theme="dark"] :is(.hero-actions,.manifesto-copy) .cta:hover { background: var(--dark-maroon-hover); color: var(--dark-text); }
 :root[data-theme="dark"] :is(.hero-actions,.manifesto-copy) .cta:focus-visible {
   outline: 2px solid var(--dark-text);
+  outline-offset: 3px;
+}
+/* Walnut card surfaces for the espresso theme. */
+:root[data-theme="dark"] :is(.course-card, .topic-card, .deep-cuts .rabbit-course) {
+  background: #40332b;
+  border-color: var(--dark-line);
+  color: var(--dark-text);
+}
+:root[data-theme="dark"] .deep-cuts .rabbit-course strong {
+  color: var(--dark-text);
+}
+:root[data-theme="dark"] :is(.card-text p, .card-evidence, .card-bottom .tag, .topic-card small, .deep-cuts .rabbit-course small) {
+  color: var(--dark-muted);
+}
+:root[data-theme="dark"] :is(.card-meta, .card-bottom button, .topic-card .topic-action, .topic-card .topic-no, .deep-cuts .rabbit-course .eyebrow, .deep-cuts .rabbit-course .rabbit-action) {
+  color: var(--dark-accent);
+}
+:root[data-theme="dark"] :is(.topic-card, .rabbit-course):hover {
+  box-shadow: 4px 6px 0 #17110d;
+}
+:root[data-theme="dark"] :is(.topic-card, .rabbit-course, .card-bottom button):focus-visible {
+  outline: 2px solid var(--dark-accent);
   outline-offset: 3px;
 }
 </style></head><body><a class="skip-link" href="#catalog">Skip to courses</a><header><a href="#" class="logo"><img class="brand-emblem" src="art/brand/key-ivy-dark-transparent.png" width="52" height="52" alt="" decoding="async" onerror="this.hidden=true"><span class="brand-wordmark">The Illicit Syllabus<span style="color:#a55958">.</span></span></a><nav class="topnav" aria-label="Main navigation"><a href="#catalog" style="text-decoration:none">Explore</a><button id="my-list" type="button">My reading list <span class="count" id="counter">0</span></button><button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to light mode" title="Switch to light mode" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path class="bulb-glass" d="M9 17v-2a5 5 0 1 1 6 0v2Z"/><path d="M9 20h6m-4 2h2"/><path class="bulb-rays" d="M12 2v1M5 5l1 1m13-1-1 1M3 11h1m16 0h1"/></svg></button></nav></header><main><section class="hero wrapper"><div class="hero-copy"><div class="eyebrow">A catalog of reading lists</div><h1>Find your next<br><em>great read.</em></h1><p>Explore real reading lists from Oxford, Harvard, MIT, and universities around the world.</p><div class="hero-actions"><a class="cta" href="#topics">Explore topics ↗</a><a class="cta cta-secondary" href="#rabbit-hole">Find rabbit holes ↗</a></div></div><div class="hero-art"><img src="art/literary-salon-hero.webp" alt="Original oil painting of a clandestine literary salon, cigarettes, manuscripts, and a moonlit university"></div></section><section class="discovery wrapper" id="topics"><div class="eyebrow">Browse subjects of books to read</div><h2>Start building a reading list by topic.</h2><p>Choose a subject, follow its original university sources, and save the works that interest you.</p><div id="topic-grid" class="topic-grid"></div><div class="browse-actions"><a href="#browse-topics" class="browse-link">Explore all subjects ↗</a></div></section><section class="deep-cuts" id="rabbit-hole"><div class="wrapper"><div class="rabbit-intro"><div class="rabbit-intro-copy"><div class="eyebrow">The rabbit hole</div><h2>Find your rabbit hole.</h2><p>We’ve collected the anomalies: some of the most unusual, eccentric, and off-the-beaten-path university courses we could find. You can also discover the occasional remarkable reading list found beyond the classroom.</p></div><img src="art/rabbit-den.png" alt="Dark impressionist painting of white rabbits in a surreal, smoke-filled Wonderland den" loading="lazy"></div><div id="rabbit-courses" class="rabbit-courses"></div><div class="browse-actions"><a href="#browse-rabbit" class="browse-link">Browse more rabbit holes ↗</a><button id="rabbit-more" class="browse-link more-button" type="button" hidden>Load more anomalies ↓</button></div></div></section><section id="catalog" class="wrapper"><div class="section-top"><div><div class="eyebrow">Browse all reading lists</div><h2>A syllabus worth stealing.</h2></div><p>Explore the full collection of reading lists and find your next subject, author, or book worth pursuing.</p></div><div class="filters" role="search"><input id="search" aria-label="Search courses and readings" placeholder="Search readings, authors, courses, universities…"><select id="discipline" aria-label="Filter by discipline"><option value="">All disciplines</option></select><select id="institution" aria-label="Filter by university"><option value="">All universities</option></select><button type="button" class="clear-filters" id="reset-filters">Clear filters</button></div><div id="results-meta" class="results-meta" role="status" aria-live="polite"></div><div id="cards" class="catalog" aria-live="polite"></div><div class="browse-actions"><a href="#browse-archive" class="browse-link">Browse the full archive ↗</a><button id="archive-more" class="browse-link more-button" type="button" hidden>Load more courses ↓</button></div><div class="note">A deliberately small, carefully sourced collection. Labels distinguish required texts, assigned readings, and preparatory recommendations. These are excerpts, not complete syllabi. All rights remain with their respective owners; no affiliation with these universities is implied.</div></section><section class="manifesto"><div class="manifesto-copy"><div class="eyebrow">A small act of academic disobedience</div><h2>You don't need to get in to begin.</h2><p>Follow the established curriculum or disregard the order entirely. Assemble your bookshelf from rigorous intellectual traditions, one work at a time.</p><a href="#catalog" class="cta" style="display:inline-block;text-decoration:none">Enter the reading room ↗</a></div><img class="manifesto-art" src="art/literary-salon-manifesto.webp" alt="Oil painting of a nocturnal literary salon with smoke, books, and manuscripts" loading="lazy"></section></main><footer><img class="footer-emblem" src="art/brand/key-ivy-dark-transparent.png" width="170" height="170" alt="" loading="lazy" decoding="async" onerror="this.hidden=true"><div>THE ILLICIT SYLLABUS · Build your own reading list backed by syllabi from prestigious institutions around the world. · An independent project</div></footer><div id="overlay"></div><script>
