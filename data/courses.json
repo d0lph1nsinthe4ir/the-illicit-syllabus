@@ -5090,5 +5090,373 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Five named reading resources from the syllabus; no required textbook. Specific additional Canvas selections are not publicly accessible."
+  },
+  {
+    "id": "cambridge-empires-world-history",
+    "institution": "University of Cambridge",
+    "country": "United Kingdom",
+    "discipline": "Global and imperial history",
+    "course": "Empires in World History, from the Fifteenth Century to the First World War",
+    "term": "2020–2021",
+    "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf",
+    "description": "University-published bibliography exploring global and imperial history.",
+    "sourceType": "Official Historical Tripos Paper 21 course reading list",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Birth of the Modern World",
+        "author": "C. A. Bayly",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "Empires in World History",
+        "author": "Jane Burbank and Frederick Cooper",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "Law and Colonial Cultures",
+        "author": "Lauren Benton",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "After Tamerlane",
+        "author": "John Darwin",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "The Great Divergence",
+        "author": "Kenneth Pomeranz",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "Why Europe Grew Rich and Asia Did Not",
+        "author": "Prasannan Parthasarathi",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "The Transformation of the World",
+        "author": "Jürgen Osterhammel",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "Colonialism in Question",
+        "author": "Frederick Cooper",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      },
+      {
+        "title": "Lords of All the World",
+        "author": "Anthony Pagden",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.hist.cam.ac.uk/sites/default/files/2020-05/Paper_21_Reading_List__2020-2021_0.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
+  },
+  {
+    "id": "cambridge-mesopotamian-studies",
+    "institution": "University of Cambridge",
+    "country": "United Kingdom",
+    "discipline": "Archaeology and ancient Near Eastern studies",
+    "course": "Mesopotamian Studies: Archaeology, History, Languages and Literature",
+    "term": "Undated",
+    "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies",
+    "description": "University-published bibliography exploring archaeology and ancient near eastern studies.",
+    "sourceType": "Departmental suggested reading for prospective undergraduates; not a course syllabus",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Ancient Near Eastern Art",
+        "author": "Dominique Collon",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Sumer and the Sumerians",
+        "author": "Harriet Crawford",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Babylon",
+        "author": "Joan Oates",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Ancient Mesopotamia",
+        "author": "Susan Pollock",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Early Mesopotamia",
+        "author": "J. N. Postgate",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Life in the Ancient Near East",
+        "author": "Daniel C. Snell",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Cuneiform",
+        "author": "Irving Finkel and Jonathan Taylor",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Reading and Writing in Babylon",
+        "author": "Dominique Charpin",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Myths from Mesopotamia",
+        "author": "Stephanie Dalley",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "Before the Muses",
+        "author": "Benjamin R. Foster",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      },
+      {
+        "title": "The Epic of Gilgamesh",
+        "author": "Andrew George (translator)",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
+  },
+  {
+    "id": "uchicago-oral-narrative",
+    "institution": "University of Chicago",
+    "country": "United States",
+    "discipline": "Folklore and anthropology",
+    "course": "Explorations in Oral Narrative: Storytelling and the Folktale",
+    "term": "Spring 2006",
+    "source": "https://home.uchicago.edu/~jwf1/syllabi.htm",
+    "description": "University-published bibliography exploring folklore and anthropology.",
+    "sourceType": "Official professor-hosted course syllabus; assigned and recommended readings distinguished",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Albert B. Lord",
+        "status": "Purchase",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "Fairy Tales and Society",
+        "author": "Ruth B. Bottigheimer",
+        "status": "Recommended",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "Text, Play, and Story",
+        "author": "Edward M. Bruner (editor)",
+        "status": "Recommended",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "The Storyteller",
+        "author": "Walter Benjamin",
+        "status": "Assigned",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "Our Lives Are But Stories",
+        "author": "Esther Schely-Newman",
+        "status": "Assigned selections",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "African Talking Drums and Oral Noetics",
+        "author": "Walter J. Ong",
+        "status": "Assigned",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "Interfaces of the Word",
+        "author": "Walter J. Ong",
+        "status": "Assigned chapters",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      },
+      {
+        "title": "The Consequences of Literacy",
+        "author": "Jack Goody and Ian Watt",
+        "status": "Assigned",
+        "source": "https://home.uchicago.edu/~jwf1/syllabi.htm"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
+  },
+  {
+    "id": "uchicago-gender-sexuality-civilizations",
+    "institution": "University of Chicago",
+    "country": "United States",
+    "discipline": "Gender and sexuality studies",
+    "course": "Gender and Sexuality in World Civilizations I",
+    "term": "Undated",
+    "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf",
+    "description": "University-published bibliography exploring gender and sexuality studies.",
+    "sourceType": "Official University of Chicago weekly course reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Second Sex",
+        "author": "Simone de Beauvoir",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Gender: A Useful Category of Historical Analysis",
+        "author": "Joan W. Scott",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Thinking Sex",
+        "author": "Gayle Rubin",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Brain Storm",
+        "author": "Rebecca Jordan-Young",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Mapping the Margins",
+        "author": "Kimberlé Crenshaw",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "The Origin of the Family, Private Property and the State",
+        "author": "Friedrich Engels",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Writing Women's Worlds",
+        "author": "Lila Abu-Lughod",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "A Room of One's Own",
+        "author": "Virginia Woolf",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "The Laugh of the Medusa",
+        "author": "Hélène Cixous",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      },
+      {
+        "title": "Monsieur Vénus",
+        "author": "Rachilde",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/gswc-I.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
+  },
+  {
+    "id": "uchicago-human-rights-civilizations",
+    "institution": "University of Chicago",
+    "country": "United States",
+    "discipline": "Human rights and legal history",
+    "course": "Human Rights in World Civilizations I",
+    "term": "Undated",
+    "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf",
+    "description": "University-published bibliography exploring human rights and legal history.",
+    "sourceType": "Official University of Chicago session-by-session course reading schedule",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Universal Declaration of Human Rights",
+        "author": "United Nations",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "The Decline of the Nation-State and the End of the Rights of Man",
+        "author": "Hannah Arendt",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "The Wretched of the Earth",
+        "author": "Frantz Fanon",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "Axis Rule in Occupied Europe",
+        "author": "Raphael Lemkin",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "We Charge Genocide",
+        "author": "Civil Rights Congress",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "Making Sense of Human Rights",
+        "author": "James Nickel",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "Do Muslim Women Need Saving?",
+        "author": "Lila Abu-Lughod",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "The Drowned and the Saved",
+        "author": "Primo Levi",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "The Memory of Judgment",
+        "author": "Lawrence Douglas",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      },
+      {
+        "title": "Death and the Maiden",
+        "author": "Ariel Dorfman",
+        "status": "Listed in university reading schedule or bibliography",
+        "source": "https://college.uchicago.edu/sites/default/files/2026-06/hr-civ-I.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
   }
 ]
