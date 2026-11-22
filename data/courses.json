@@ -5039,5 +5039,56 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected bibliography; some titles are course references rather than mandatory reading"
+  },
+  {
+    "id": "stanford-performing-america-broadway",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Music and cultural studies",
+    "course": "Performing America: The Broadway Musical (MUSIC 34N)",
+    "term": "Spring 2024",
+    "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01",
+    "description": "Broadway musical theater as an expression of American cultural identity, race, class, gender, popular music, and social change.",
+    "sourceType": "Official Stanford course syllabus; reading materials and weekly assignments",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "American Musical Theater",
+        "author": "James Leve",
+        "status": "Course-listed reading resource",
+        "note": "Listed reference; excerpts available on Canvas",
+        "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01"
+      },
+      {
+        "title": "The Cambridge Companion to the Musical",
+        "author": "William A. Everett and Paul R. Laird (editors)",
+        "status": "Course-listed reading resource",
+        "note": "Listed reference; excerpts available on Canvas",
+        "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01"
+      },
+      {
+        "title": "Changed for Good: A Feminist History of the Broadway Musical",
+        "author": "Stacy Wolf",
+        "status": "Course-listed reading resource",
+        "note": "Listed reference; excerpts available on Canvas",
+        "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01"
+      },
+      {
+        "title": "Experiencing Broadway Music: A Listener's Companion",
+        "author": "Kat Sherrell",
+        "status": "Recommended text with explicitly assigned sections",
+        "note": "Recommended starting text; chapter 1 explicitly assigned in week 1",
+        "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01"
+      },
+      {
+        "title": "Oscar Hammerstein II and the Invention of the Musical",
+        "author": "Laurie Winer",
+        "status": "Recommended text with explicitly assigned sections",
+        "note": "Recommended starting text; introduction and chapters 3, 5, and 11 explicitly assigned",
+        "source": "https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp24-MUSIC-34N-01"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Five named reading resources from the syllabus; no required textbook. Specific additional Canvas selections are not publicly accessible."
   }
 ]
