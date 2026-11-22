@@ -2556,5 +2556,324 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected source-listed readings; not the full syllabus"
+  },
+  {
+    "id": "ucl-english-first-year",
+    "institution": "University College London",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "English Literature: First-Year Reading List",
+    "term": "2023–24",
+    "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf",
+    "description": "A sweeping introduction to literary traditions, from Homer and Sappho to classical drama, medieval thought, and later literary criticism.",
+    "sourceType": "Official UCL first-year reading list (historical PDF; original link currently unavailable)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "status": "Source-listed reading",
+        "note": "Emily Wilson translation; especially books 1, 8–11 and 17–23",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "If Not, Winter: Fragments of Sappho",
+        "author": "Sappho",
+        "status": "Source-listed reading",
+        "note": "Anne Carson translation",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "Antigone",
+        "author": "Sophocles",
+        "status": "Source-listed reading",
+        "note": "Robert Fagles translation",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "Oedipus the King",
+        "author": "Sophocles",
+        "status": "Source-listed reading",
+        "note": "Robert Fagles translation",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "The Symposium",
+        "author": "Plato",
+        "status": "Source-listed reading",
+        "note": "Christopher Gill translation",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "The Aeneid",
+        "author": "Virgil",
+        "status": "Source-listed reading",
+        "note": "Shadi Bartsch translation; especially books 1–6",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "status": "Source-listed reading",
+        "note": "David Raeburn translation; selected books",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "Confessions",
+        "author": "Augustine of Hippo",
+        "status": "Source-listed reading",
+        "note": "Henry Chadwick translation; selected books",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      },
+      {
+        "title": "The Consolation of Philosophy",
+        "author": "Boethius",
+        "status": "Source-listed reading",
+        "note": "Douglas C. Langston translation; selected books",
+        "source": "https://www.ucl.ac.uk/english/sites/english/files/first-year_reading_list_2023-24.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works from the indexed 2023–24 UCL first-year reading list; original PDF currently returns 404"
+  },
+  {
+    "id": "ucl-aesthetics",
+    "institution": "University College London",
+    "country": "United Kingdom",
+    "discipline": "Philosophy",
+    "course": "Aesthetics (PHIL2030)",
+    "term": "Term not specified",
+    "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association",
+    "description": "What is art, how do we judge it, and what makes an aesthetic experience valuable? Philosophical readings on taste, forgeries, nature, and artistic interpretation.",
+    "sourceType": "Official UCL ReadingLists bibliography",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Art as Experience",
+        "author": "John Dewey",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "The Myth of the Aesthetic Attitude",
+        "author": "George Dickie",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "Aesthetic Experience Regained",
+        "author": "Monroe C. Beardsley",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "The End of Aesthetic Experience",
+        "author": "Richard Shusterman",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "Of the Standard of Taste",
+        "author": "David Hume",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "Values of Art: Pictures, Poetry and Music",
+        "author": "Malcolm Budd",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "What Is Wrong with an Art Forgery? An Anthropological Perspective",
+        "author": "Ross Bowden",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "The Artworld",
+        "author": "Arthur Danto",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "Kant's Theory of Taste: A Reading of the Critique of Aesthetic Judgment",
+        "author": "Henry E. Allison",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      },
+      {
+        "title": "The Aesthetic Appreciation of Nature",
+        "author": "Malcolm Budd",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/1768EFCB-4C22-AEB0-3766-A00F12B16AD6/bibliography.html?style=modern-language-association"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full bibliography"
+  },
+  {
+    "id": "ucl-ancient-philosophy",
+    "institution": "University College London",
+    "country": "United Kingdom",
+    "discipline": "Philosophy",
+    "course": "Ancient Philosophy (PHIL0001)",
+    "term": "Term not specified",
+    "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url",
+    "description": "Presocratic arguments, Socratic inquiry, Plato's dialogues, and Aristotle's ethics and metaphysics through primary texts and contemporary scholarship.",
+    "sourceType": "Official UCL ReadingLists bibliography",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Readings in Ancient Greek Philosophy: From Thales to Aristotle",
+        "author": "S. Marc Cohen, Patricia Curd, and C. D. C. Reeve (editors)",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Classical Philosophy",
+        "author": "Peter Adamson",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "The Presocratic Philosophers",
+        "author": "Jonathan Barnes",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Plato's Moral Theory: The Early and Middle Dialogues",
+        "author": "Terence Irwin",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Gorgias",
+        "author": "Plato (Terence Irwin edition)",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "The Cambridge Companion to Plato",
+        "author": "Richard Kraut (editor)",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Plato's Meno",
+        "author": "Plato",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Recollection and Experience: Plato's Theory of Learning and Its Successors",
+        "author": "Dominic Scott",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Plato's Symposium: The Ethics of Desire",
+        "author": "Frisbee C. C. Sheffield",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      },
+      {
+        "title": "Presocratics",
+        "author": "James Warren",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/FB67AC14-617A-B78A-CBFB-8BDF57AC7691/bibliography.html?style=modern-language-association-7th-edition-with-url"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full bibliography"
+  },
+  {
+    "id": "ucl-philosophy-primary-texts",
+    "institution": "University College London",
+    "country": "United Kingdom",
+    "discipline": "Philosophy",
+    "course": "Philosophy Primary Texts",
+    "term": "Ongoing resource list",
+    "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html",
+    "description": "A wide-ranging university-curated shelf of primary philosophical texts, from classical philosophy to ethics, aesthetics, and continental thought.",
+    "sourceType": "Official UCL library-curated resource bibliography (not a single course syllabus)",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Categories",
+        "author": "Aristotle",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Posterior Analytics",
+        "author": "Aristotle",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Gorgias",
+        "author": "Plato",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Meditations on First Philosophy",
+        "author": "René Descartes",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "A Treatise of Human Nature",
+        "author": "David Hume",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Groundwork of the Metaphysics of Morals",
+        "author": "Immanuel Kant",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "The Theory of Moral Sentiments",
+        "author": "Adam Smith",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Political Writings",
+        "author": "Voltaire",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Aesthetic Theory",
+        "author": "Theodor W. Adorno",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Language and Mind",
+        "author": "Noam Chomsky",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Sketch for a Theory of the Emotions",
+        "author": "Jean-Paul Sartre",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      },
+      {
+        "title": "Philosophical Investigations",
+        "author": "Ludwig Wittgenstein",
+        "status": "Source-listed reading",
+        "source": "https://ucl.rl.talis.com/lists/6BD0EA05-E028-56E7-C4EC-8FD77A86148D/bibliography.html"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected source-listed readings; not the full bibliography"
   }
 ]
