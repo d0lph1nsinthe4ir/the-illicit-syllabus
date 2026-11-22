@@ -3935,5 +3935,293 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected works from the cited source; not the complete reading list"
+  },
+  {
+    "id": "columbia-icls-class-2020",
+    "institution": "Columbia University",
+    "discipline": "Literature and cultural studies",
+    "course": "Class of 2020 Reading List: Literature, Language, and Critical Thought",
+    "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/",
+    "description": "A reading list compiled by Columbia comparative-literature graduates, ranging from contemporary fiction to linguistics, feminist theory, and political criticism.",
+    "sourceType": "Official Columbia ICLS student-curated reading list; not a course syllabus",
+    "country": "United States",
+    "term": "Date not specified",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "White Teeth",
+        "author": "Zadie Smith",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Animal's People",
+        "author": "Indra Sinha",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Bloodchild and Other Stories",
+        "author": "Octavia E. Butler",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Empathy Exams",
+        "author": "Leslie Jamison",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Poetics of Relation (\"Open Boat\")",
+        "author": "Édouard Glissant",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Castle",
+        "author": "Franz Kafka",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Coolie Woman",
+        "author": "Gaiutra Bahadur",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Overstory",
+        "author": "Richard Powers",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Lincoln in the Bardo",
+        "author": "George Saunders",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Carrier Bag Theory of Fiction",
+        "author": "Ursula K. Le Guin",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Orientalism",
+        "author": "Edward Said",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Man with a Shattered World",
+        "author": "Aleksandr Luria",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "The Death of the Author",
+        "author": "Roland Barthes",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Course in General Linguistics",
+        "author": "Ferdinand de Saussure",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Monolingualism of the Other",
+        "author": "Jacques Derrida",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Feminism Without Borders",
+        "author": "Chandra Talpade Mohanty",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      },
+      {
+        "title": "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color",
+        "author": "Kimberlé Crenshaw",
+        "status": "Source-listed reading",
+        "source": "https://icls.columbia.edu/news/class-of-2020-reading-list/"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works explicitly named in the source; consult source for full list and assigned sections"
+  },
+  {
+    "id": "brown-ppe-reading-list",
+    "institution": "Brown University",
+    "discipline": "Political philosophy",
+    "course": "Philosophy, Politics, and Economics: Center Reading List",
+    "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list",
+    "description": "Brown's interdisciplinary center bibliography on moral philosophy, political institutions, public policy, and political economy.",
+    "sourceType": "Official Brown PPE center reading list; not a course syllabus",
+    "country": "United States",
+    "term": "Date not specified",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Philosophy, Politics, and Economics: An Anthology",
+        "author": "Jonathan Anomaly, Geoffrey Brennan, Michael C. Munger, and Geoffrey Sayre-McCord",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "Essays on Philosophy, Politics & Economics",
+        "author": "Christi Favor, Gerald Gaus, and Julian Lamont",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "Economic Analysis, Moral Philosophy, and Public Policy",
+        "author": "Daniel Hausman, Michael McPherson, and Debra Satz",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "Philosophy, Politics, and Economics: An Introduction",
+        "author": "Gerald Gaus and John Thrasher",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "The PPE Enterprise: A Substantive Research Programme",
+        "author": "Alan Hamlin",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "The PPE Enterprise: An Institutional View",
+        "author": "Geoffrey Brennan",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "The PPE Enterprise: Common Hobbesian Roots and Perspectives",
+        "author": "Hartmut Kliemt",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "One Hundred Years of PPE, 1920–2020",
+        "author": "Bethany White, Samuel Wainwright, and Lily Schreiter",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      },
+      {
+        "title": "The Routledge Handbook of Philosophy, Politics, and Economics",
+        "author": "C. M. Melenovsky (ed.)",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/about/philosophy-politics-and-economics-reading-list"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works explicitly named in the source; consult source for full list and assigned sections"
+  },
+  {
+    "id": "brown-capitalism-for-against",
+    "institution": "Brown University",
+    "discipline": "Political philosophy",
+    "course": "Capitalism: For and Against",
+    "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf",
+    "description": "A Brown Political Theory Project seminar examining competing philosophical arguments about markets, justice, liberty, equality, and social order.",
+    "sourceType": "Official Brown-hosted Political Theory Project course syllabus, required texts and scheduled readings",
+    "country": "United States",
+    "term": "Date not specified",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Two Treatises of Government",
+        "author": "John Locke",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Discourses and Other Early Political Writings",
+        "author": "Jean-Jacques Rousseau",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Theory of Moral Sentiments",
+        "author": "Adam Smith",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Wealth of Nations",
+        "author": "Adam Smith",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Marx-Engels Reader",
+        "author": "Karl Marx and Friedrich Engels (ed. Robert C. Tucker)",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "Liberalism: The Classical Tradition",
+        "author": "Ludwig von Mises",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "Justice as Fairness: A Restatement",
+        "author": "John Rawls",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Mind and the Market",
+        "author": "Jerry Z. Muller",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "The Problems and Promise of Commercial Society",
+        "author": "Dennis C. Rasmussen",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "Manifesto of the Communist Party",
+        "author": "Karl Marx and Friedrich Engels",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      },
+      {
+        "title": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "status": "Source-listed reading",
+        "source": "https://ppe.brown.edu/sites/default/files/2020-08/Capitalism%20-%20For%20and%20Against%20%281%29.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected works explicitly named in the source; consult source for full list and assigned sections"
   }
 ]
