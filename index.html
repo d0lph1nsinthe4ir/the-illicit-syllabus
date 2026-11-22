@@ -65,7 +65,7 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 
 /* Art-directed immersive panels. Images remain genuine image elements, with alt text. */
 .hero.wrapper{position:relative;isolation:isolate;display:flex;align-items:center;justify-content:flex-start;max-width:none;width:100%;min-height:clamp(600px,64vw,820px);padding:clamp(32px,5vw,80px);box-sizing:border-box;overflow:hidden;background:#211a1b}
-.hero-art{position:absolute!important;inset:0!important;z-index:-2!important;overflow:hidden!important}
+.hero-art{position:absolute!important;inset:0!important;align-self:stretch;z-index:-2!important;overflow:hidden!important}
 .hero-art img,.hero .hero-art img{width:100%!important;height:100%!important;max-height:none!important;object-fit:cover!important;object-position:center 43%!important;filter:brightness(.80) contrast(1.08) saturate(.91)!important}
 .hero:after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,rgba(18,13,17,.67) 0%,rgba(20,14,17,.30) 44%,transparent 85%)}
 .hero-copy{position:relative;z-index:1;max-width:600px;padding:clamp(28px,4vw,56px);background:rgba(249,244,233,.91);box-shadow:0 15px 45px rgba(15,10,12,.16);backdrop-filter:blur(7px)}
