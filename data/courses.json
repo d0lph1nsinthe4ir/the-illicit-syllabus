@@ -4223,5 +4223,105 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected works explicitly named in the source; consult source for full list and assigned sections"
+  },
+  {
+    "id": "brown-east-west-orientalism",
+    "institution": "Brown University",
+    "country": "United States",
+    "discipline": "Comparative literature and cultural studies",
+    "course": "East–West Encounters: Politics and Fictions of Orientalism (COLT 1814D)",
+    "term": "Fall 2017",
+    "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf",
+    "description": "Orientalism, Enlightenment fiction, the Arabian Nights, and cultural representations of East–West encounters.",
+    "sourceType": "Official Brown course syllabus with weekly reading assignments and required texts",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Orientem versus",
+        "author": "Paul Valéry",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Orientalism (Introduction)",
+        "author": "Edward Said",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "One Thousand and One Nights (selected tales)",
+        "author": "Anonymous",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Persian Letters",
+        "author": "Montesquieu",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Zadig, or Destiny, an Oriental Tale",
+        "author": "Voltaire",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "The History of Rasselas, Prince of Abyssinia",
+        "author": "Samuel Johnson",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Vathek, an Arabian Tale",
+        "author": "William Beckford",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "A New Arabian Night’s Entertainment",
+        "author": "Horace Walpole",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "The Thousand-and-Second Tale of Scheherazade",
+        "author": "Edgar Allan Poe",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "The Tale of the 672nd Night",
+        "author": "Hugo von Hofmannsthal",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Forbidden Gaze, Severed Sound",
+        "author": "Assia Djebar",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "The Woman in Pieces",
+        "author": "Assia Djebar",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "The Dreams of Scheherazade",
+        "author": "Taha Hussein",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      },
+      {
+        "title": "Scheherazade Goes West: Different Cultures, Different Harems",
+        "author": "Fatema Mernissi",
+        "status": "Explicitly assigned in weekly syllabus",
+        "source": "https://watson.brown.edu/cmes/files/mes/imce/for-students/COLT%201814D%20Fall%202017%281%29.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Named texts from the syllabus; some assigned selections are excerpts or stories rather than whole books"
   }
 ]
