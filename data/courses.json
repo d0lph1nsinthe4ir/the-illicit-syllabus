@@ -4323,5 +4323,469 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Named texts from the syllabus; some assigned selections are excerpts or stories rather than whole books"
+  },
+  {
+    "id": "stanford-hindus-muslims",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Religion and politics",
+    "course": "Hindus and Muslims in South Asia",
+    "term": "Spring 2010",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Hindus%20and%20Muslims%20in%20South%20Asia.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Beyond Hindu and Muslim",
+        "author": "Peter Gottschalk",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Hindus%20and%20Muslims%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "The Other Side of Silence",
+        "author": "Urvashi Butalia",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Hindus%20and%20Muslims%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "India After Gandhi",
+        "author": "Ramachandra Guha",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Hindus%20and%20Muslims%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "In Amma's Healing Room",
+        "author": "Joyce Burkhalter Flueckiger",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Hindus%20and%20Muslims%20in%20South%20Asia.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "stanford-goddesses-gender",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Religion and gender",
+    "course": "Goddesses and Gender in Hinduism",
+    "term": "Fall 2009",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "In Praise of the Goddess: The Devimahatmya and Its Meaning",
+        "author": "Devadatta Kali (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      },
+      {
+        "title": "Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Tradition",
+        "author": "David Kinsley",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      },
+      {
+        "title": "Is the Goddess a Feminist? The Politics of South Asian Goddesses",
+        "author": "Kathleen M. Erndl and Alf Hiltebeitel (editors)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      },
+      {
+        "title": "Seeking Mahadevi: Constructing the Identities of the Hindu Great Goddess",
+        "author": "Tracy Pintchman (editor)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      },
+      {
+        "title": "Fields of Protest: Women's Movements in India",
+        "author": "Raka Ray",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      },
+      {
+        "title": "Encountering Kali: In the Margins, at the Center, in the West",
+        "author": "Rachel Fell McDermott and Jeffrey J. Kripal (editors)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Goddesses%20and%20Gender%20in%20Hinduism.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "stanford-gandhi-nonviolence",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Political ethics and religion",
+    "course": "Gandhi and His Legacy: Violence/Nonviolence in the World and in Ourselves",
+    "term": "Winter 2012",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Gandhi%20and%20Nonviolence.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Violence in War and Peace: An Anthology",
+        "author": "Nancy Scheper-Hughes and Philippe Bourgois (editors)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Gandhi%20and%20Nonviolence.pdf"
+      },
+      {
+        "title": "The Story of My Experiments with Truth",
+        "author": "M. K. Gandhi",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Gandhi%20and%20Nonviolence.pdf"
+      },
+      {
+        "title": "The Other Side of Silence",
+        "author": "Urvashi Butalia",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Gandhi%20and%20Nonviolence.pdf"
+      },
+      {
+        "title": "Humanity: A Moral History of the Twentieth Century",
+        "author": "Jonathan Glover",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Gandhi%20and%20Nonviolence.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "stanford-religion-music",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Religion and music",
+    "course": "Music and Religion in South Asia",
+    "term": "Fall 2010",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Sacred Sound: Music in Religious Thought and Practice",
+        "author": "Joyce Irwin (editor)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "Sacred Sound: Experiencing Music in World Religions",
+        "author": "Guy L. Beck (editor)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "Music in South India",
+        "author": "T. Viswanathan and Matthew Harp Allen",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "Hinduism: A Very Short Introduction",
+        "author": "Kim Knott",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf"
+      },
+      {
+        "title": "Music in North India",
+        "author": "George Ruckert",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Music%20in%20South%20Asia.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "stanford-indian-devotional-poetry",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Religious literature",
+    "course": "Indian Devotional Poetry",
+    "term": "Spring 2008",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Love Song of the Dark Lord: Jayadeva's Gitagovinda",
+        "author": "Jayadeva; Barbara Stoler Miller (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "God on the Hill: Temple Poems from Tirupati",
+        "author": "Velcheru Narayana Rao and David Shulman (translators)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Poems to Siva: Hymns to the Tamil Saints",
+        "author": "Indira Viswanathan Peterson",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Speaking of Siva",
+        "author": "A. K. Ramanujan (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Hymns for the Drowning: Poems for Visnu by Nammalvar",
+        "author": "A. K. Ramanujan (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Krishna: The Beautiful Legend of God",
+        "author": "Edwin F. Bryant (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Poems to the Child-God: Structures and Strategies in the Poetry of Surdas",
+        "author": "Kenneth E. Bryant",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      },
+      {
+        "title": "Sur Das: Poet, Singer, Saint",
+        "author": "John Stratton Hawley",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Indian%20Devotional%20Poetry.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "stanford-religion-performance",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Religion and cultural studies",
+    "course": "Religion and Performance",
+    "term": "Term not stated",
+    "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "Performance Studies: An Introduction",
+        "author": "Richard Schechner",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "Ritual: Perspectives and Dimensions",
+        "author": "Catherine Bell",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "Exodus, chapters 1–16",
+        "author": "Hebrew Bible",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "Gregorian Chant as a Paradigm of Sacred Music",
+        "author": "William Mahrt",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "Gregorian Chant as a Fundamentum of Western Musical Culture",
+        "author": "William Mahrt",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "City of Sacrifice: The Aztec Empire and the Role of Violence in Civilization",
+        "author": "Davíd Carrasco",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      },
+      {
+        "title": "The Shambhala Guide to Sufism",
+        "author": "Carl W. Ernst",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://web.stanford.edu/~lionda/Linda_Hess/Courses_files/Religion%20and%20Performance.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "uchicago-islamic-mysticism",
+    "institution": "University of Chicago",
+    "country": "United States",
+    "discipline": "Religion and philosophy",
+    "course": "Major Trends in Islamic Mysticism",
+    "term": "Autumn 2022",
+    "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Essence of Reality: A Defense of Philosophical Sufism",
+        "author": "ʿAyn al-Quḍāt; Mohammed Rustom (translator)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "Sufism: An Introduction to the Mystical Tradition of Islam",
+        "author": "Carl W. Ernst",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "The Study Quran",
+        "author": "Seyyed Hossein Nasr and others (editors)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "Mystics of the Book",
+        "author": "Robert A. Herrera (editor)",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "Sufism: A Short Introduction",
+        "author": "William C. Chittick",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "Early Islamic Mysticism",
+        "author": "Michael A. Sells",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "Deliverance from Error",
+        "author": "Abū Ḥāmid al-Ghazālī",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      },
+      {
+        "title": "The Way of Abū Madyan",
+        "author": "Vincent J. Cornell",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://college.uchicago.edu/sites/default/files/documents/SIGN%2026068%20Casewit%20Syllabus.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
+  },
+  {
+    "id": "columbia-freedom-citizenship",
+    "institution": "Columbia University",
+    "country": "United States",
+    "discipline": "Political philosophy",
+    "course": "Freedom and Citizenship: Summer Seminar",
+    "term": "Term not specified",
+    "source": "https://freedomandcitizenship.columbia.edu/syllabus",
+    "description": "University-hosted syllabus with specific assigned readings, spanning religion, literature, politics, and cultural interpretation.",
+    "sourceType": "Official university-hosted syllabus with assigned readings",
+    "status": "source-linked",
+    "readings": [
+      {
+        "title": "The Trial and Death of Socrates",
+        "author": "Plato",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "History of the Peloponnesian War",
+        "author": "Thucydides",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Politics",
+        "author": "Aristotle",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Leviathan",
+        "author": "Thomas Hobbes",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Second Treatise of Government",
+        "author": "John Locke",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "The Social Contract",
+        "author": "Jean-Jacques Rousseau",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "author": "Frederick Douglass",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "A Voice from the South",
+        "author": "Anna Julia Cooper",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Trans-national America",
+        "author": "Randolph Bourne",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "The Meaning and Office of Liberalism",
+        "author": "John Dewey",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Capitalism and Freedom",
+        "author": "Milton Friedman",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "Letter from Birmingham Jail",
+        "author": "Martin Luther King Jr.",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      },
+      {
+        "title": "A Talk to Teachers",
+        "author": "James Baldwin",
+        "status": "Syllabus-listed text or assigned excerpt",
+        "source": "https://freedomandcitizenship.columbia.edu/syllabus"
+      }
+    ],
+    "verifiedAt": "2026-11-22",
+    "coverage": "Selected titles from the syllabus; some are assigned excerpts, and some syllabi include recommended readings"
   }
 ]
