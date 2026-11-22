@@ -219,7 +219,7 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 :root[data-theme="dark"] .discovery>.eyebrow,
 :root[data-theme="dark"] .section-top .eyebrow,
 :root[data-theme="dark"] .clear-filters{color:var(--dark-accent)}
-:root[data-theme="dark"] :is(.rabbit-intro-copy,.manifesto-copy,.course-card,.topic-card,.rabbit-card,.dialog,.drawer article,.filters input,.filters select){color:var(--ink)}
+:root[data-theme="dark"] :is(.course-card,.topic-card,.rabbit-card,.dialog,.drawer article,.filters input,.filters select){color:var(--ink)}
 :root[data-theme="dark"] .course-card{box-shadow:3px 4px 0 #171513}
 :root[data-theme="dark"] .course-card:hover{box-shadow:6px 9px 0 #171513}
 @media(max-width:580px){
@@ -228,14 +228,15 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
   :root[data-theme="dark"] .hero.wrapper,
   :root[data-theme="dark"] .manifesto{background:var(--dark-page)!important}
 }
-:root[data-theme="dark"] .hero-copy {
+:root[data-theme="dark"] :is(.hero-copy,.rabbit-intro-copy,.manifesto-copy) {
   background: var(--dark-panel) !important;
   color: var(--dark-text);
 }
-:root[data-theme="dark"] .hero-copy .eyebrow,
+:root[data-theme="dark"] :is(.hero-copy,.rabbit-intro-copy,.manifesto-copy) .eyebrow,
 :root[data-theme="dark"] .hero-copy h1 em { color: var(--dark-accent); }
-:root[data-theme="dark"] .hero-copy p { color: var(--dark-muted); }
-:root[data-theme="dark"] .hero-actions .cta {
+:root[data-theme="dark"] .rabbit-intro-copy h2 { color: var(--dark-text); }
+:root[data-theme="dark"] :is(.hero-copy,.rabbit-intro-copy,.manifesto-copy) p { color: var(--dark-muted); }
+:root[data-theme="dark"] :is(.hero-actions,.manifesto-copy) .cta {
   background: var(--dark-maroon);
   color: var(--dark-text);
   box-shadow: inset 0 0 0 1px var(--dark-accent);
@@ -245,8 +246,8 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
   border-color: var(--dark-accent);
   color: var(--dark-accent);
 }
-:root[data-theme="dark"] .hero-actions .cta:hover { background: var(--dark-maroon-hover); color: var(--dark-text); }
-:root[data-theme="dark"] .hero-actions .cta:focus-visible {
+:root[data-theme="dark"] :is(.hero-actions,.manifesto-copy) .cta:hover { background: var(--dark-maroon-hover); color: var(--dark-text); }
+:root[data-theme="dark"] :is(.hero-actions,.manifesto-copy) .cta:focus-visible {
   outline: 2px solid var(--dark-text);
   outline-offset: 3px;
 }
