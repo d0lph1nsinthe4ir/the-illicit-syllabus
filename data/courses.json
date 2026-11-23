@@ -6128,5 +6128,222 @@
         "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/9463336/"
       }
     ]
+  },
+  {
+    "id": "rutgers-dada-to-punk",
+    "institution": "Rutgers University",
+    "country": "United States",
+    "discipline": "Comparative literature and cultural studies",
+    "course": "Radical Modernism: Dada to Punk Rock",
+    "term": "Published course outline",
+    "source": "https://complit.sas.rutgers.edu/academics/undergraduate/undergraduate-courses/course-detail/527-277-avant-garde-dada-to-punk-rock",
+    "sourceType": "Official university course outline",
+    "sourceLocation": "Named films in the course description",
+    "description": "European avant-garde writing and art, from Expressionism, Dada, and Surrealism through Pop Art and punk.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "The Cabinet of Dr. Caligari",
+        "author": "Robert Wiene",
+        "status": "Course-listed film",
+        "note": "Named in the public course outline.",
+        "source": "https://complit.sas.rutgers.edu/academics/undergraduate/undergraduate-courses/course-detail/527-277-avant-garde-dada-to-punk-rock"
+      },
+      {
+        "title": "Ghosts Before Breakfast",
+        "author": "Hans Richter",
+        "status": "Course-listed film",
+        "note": "Named in the public course outline.",
+        "source": "https://complit.sas.rutgers.edu/academics/undergraduate/undergraduate-courses/course-detail/527-277-avant-garde-dada-to-punk-rock"
+      },
+      {
+        "title": "An Andalusian Dog",
+        "author": "Luis Buñuel",
+        "status": "Course-listed film",
+        "note": "Named in the public course outline.",
+        "source": "https://complit.sas.rutgers.edu/academics/undergraduate/undergraduate-courses/course-detail/527-277-avant-garde-dada-to-punk-rock"
+      }
+    ]
+  },
+  {
+    "id": "rutgers-newark-black-arts-movement",
+    "institution": "Rutgers University–Newark",
+    "country": "United States",
+    "discipline": "Literature and cultural studies",
+    "course": "The Black Arts Movement",
+    "term": "Fall 2024",
+    "instructor": "John Keene",
+    "source": "https://sasn.rutgers.edu/sites/default/files/2024-08/Keene_BlackArtsMovement_F24.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Course schedule",
+    "description": "Poetry, drama, and criticism from the Black Arts Movement and its literary predecessors.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "Dutchman",
+        "author": "Amiri Baraka",
+        "status": "Assigned reading",
+        "note": "Listed in the course schedule.",
+        "source": "https://sasn.rutgers.edu/sites/default/files/2024-08/Keene_BlackArtsMovement_F24.pdf"
+      },
+      {
+        "title": "Selected poems",
+        "author": "Gwendolyn Brooks",
+        "status": "Assigned selections",
+        "note": "Individual poems are not specified in this schedule entry.",
+        "source": "https://sasn.rutgers.edu/sites/default/files/2024-08/Keene_BlackArtsMovement_F24.pdf"
+      },
+      {
+        "title": "The Black Arts Movement",
+        "author": "Larry Neal",
+        "status": "Assigned reading",
+        "note": "Listed in the course schedule.",
+        "source": "https://sasn.rutgers.edu/sites/default/files/2024-08/Keene_BlackArtsMovement_F24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "kcl-surrealism",
+    "institution": "King’s College London",
+    "country": "United Kingdom",
+    "discipline": "Comparative literature and cultural studies",
+    "course": "Surrealism",
+    "term": "Published module outline",
+    "source": "https://www.kcl.ac.uk/abroad/module-options/surrealism-1",
+    "sourceType": "Official university module outline",
+    "sourceLocation": "Suggested reading list",
+    "description": "Surrealism across prose, poetry, periodicals, film, painting, and photography.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "Dada and Surrealism",
+        "author": "Matthew Gale",
+        "status": "Suggested reading",
+        "note": "Suggested before the module begins.",
+        "source": "https://www.kcl.ac.uk/abroad/module-options/surrealism-1"
+      }
+    ]
+  },
+  {
+    "id": "oxford-art-politics-since-1900",
+    "institution": "University of Oxford",
+    "country": "United Kingdom",
+    "discipline": "Art History",
+    "course": "Art and Politics since 1900",
+    "term": "Published reading list",
+    "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P465ARW",
+    "sourceType": "Official university reading list",
+    "sourceLocation": "Essential reading entries",
+    "description": "The relationship between visual art and political movements, from the avant-garde to revolutionary and protest art.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "The Avant-Garde: A Very Short Introduction",
+        "author": "David Cottington",
+        "status": "Essential reading",
+        "note": "Marked essential in the university list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P465ARW"
+      },
+      {
+        "title": "Art and Revolution in Latin America 1910–1990",
+        "author": "David Craven",
+        "status": "Essential reading",
+        "note": "Marked essential in the university list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P465ARW"
+      },
+      {
+        "title": "Soul of a Nation: Art in the Age of Black Power",
+        "author": "Mark Godfrey and Zoé Whitley (eds.)",
+        "status": "Essential reading",
+        "note": "Marked essential in the university list.",
+        "source": "https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P465ARW"
+      }
+    ]
+  },
+  {
+    "id": "brooklyn-postwar-art",
+    "institution": "Brooklyn College, CUNY",
+    "country": "United States",
+    "discipline": "Art History",
+    "course": "Postwar Art: From World War II to 1989",
+    "term": "Published course guide",
+    "source": "https://libguides.brooklyn.cuny.edu/postwarart/performative_strategies",
+    "sourceType": "Official college course reading guide",
+    "sourceLocation": "Unit 4, Performative Strategies",
+    "description": "Postwar experiments in performance, including Happenings, the Judson Church performers, and Fluxus.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "Remembering Yoko Ono’s Cut Piece",
+        "author": "Julia Bryan-Wilson",
+        "status": "Course-listed reading",
+        "note": "Listed in the Performative Strategies unit.",
+        "source": "https://libguides.brooklyn.cuny.edu/postwarart/performative_strategies"
+      }
+    ]
+  },
+  {
+    "id": "jcu-experimental-film",
+    "institution": "John Cabot University",
+    "country": "Italy",
+    "discipline": "Art History",
+    "course": "Experimental Film",
+    "term": "Published syllabus",
+    "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=15615",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Schedule, weeks 1, 3, and 7",
+    "description": "Experimental and counter-cinema through screenings, critical readings, and video-making exercises.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or viewings",
+    "readings": [
+      {
+        "title": "The Cinema of Attraction[s]: Early Film, Its Spectator and the Avant-Garde",
+        "author": "Tom Gunning",
+        "status": "Assigned reading",
+        "note": "Week 1, pp. 381–388.",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=15615"
+      },
+      {
+        "title": "Meshes of the Afternoon",
+        "author": "P. Adams Sitney",
+        "status": "Assigned excerpt",
+        "note": "Week 3 critical reading in Visionary Film, paired with the topic of avant-garde film.",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=15615"
+      },
+      {
+        "title": "Rethinking Women’s Cinema: Aesthetics and Feminist Theory",
+        "author": "Teresa de Lauretis",
+        "status": "Assigned reading",
+        "note": "Week 7, Counter Cinema.",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=15615"
+      }
+    ]
+  },
+  {
+    "id": "columbia-zines-by-artists",
+    "institution": "Columbia University",
+    "country": "United States",
+    "discipline": "Art History",
+    "course": "Zines by Artists",
+    "term": "Spring 2024",
+    "source": "https://doc.sis.columbia.edu/subj/AHIS/W3454-20241-001/",
+    "sourceType": "Official university course outline",
+    "sourceLocation": "Course description",
+    "description": "Artists’ self-published booklets, from conceptual and mail art to punk publishing and DIY networks.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Public course description verified; individual readings have not been verified",
+    "readings": []
   }
 ]
