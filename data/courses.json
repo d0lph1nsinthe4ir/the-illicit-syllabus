@@ -5596,5 +5596,301 @@
         "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
       }
     ]
+  },
+  {
+    "id": "wesleyan-music-theater-indonesia",
+    "institution": "Wesleyan University",
+    "country": "United States",
+    "discipline": "Music and culture",
+    "course": "Music and Theater of Indonesia",
+    "term": "Spring 2025",
+    "instructor": "Sumarsam",
+    "source": "https://owaprod-pub.wesleyan.edu/reg/%21wesmaps_page.html?crse=005881&stuid=&term=1251",
+    "sourceType": "Official university course listing",
+    "sourceLocation": "Major Readings",
+    "description": "Javanese and Balinese gamelan, Islamic frame drumming, and the cultural exchanges that shape Indonesian performing arts.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Divine Inspiration: Music and Islam in Indonesia",
+        "author": "Anne Rasmussen and David Harnish (eds.)",
+        "status": "Course-listed chapters",
+        "note": "The catalog does not identify individual chapters.",
+        "source": "https://owaprod-pub.wesleyan.edu/reg/%21wesmaps_page.html?crse=005881&stuid=&term=1251"
+      },
+      {
+        "title": "Javanese Gamelan and the West",
+        "author": "Sumarsam",
+        "status": "Course-listed chapters",
+        "note": "The catalog does not identify individual chapters.",
+        "source": "https://owaprod-pub.wesleyan.edu/reg/%21wesmaps_page.html?crse=005881&stuid=&term=1251"
+      },
+      {
+        "title": "Balinese Gamelan Music",
+        "author": "Michael Tenzer",
+        "status": "Course-listed chapters",
+        "note": "The catalog does not identify individual chapters.",
+        "source": "https://owaprod-pub.wesleyan.edu/reg/%21wesmaps_page.html?crse=005881&stuid=&term=1251"
+      }
+    ]
+  },
+  {
+    "id": "ufl-african-popular-music-globalization",
+    "institution": "University of Florida",
+    "country": "United States",
+    "discipline": "Music and culture",
+    "course": "African Popular Music and Globalization",
+    "term": "Spring 2022",
+    "instructor": "Sarah Politz",
+    "source": "https://africa.ufl.edu/wp-content/uploads/sites/258/syllabus_2022.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Outline of Class Work, January 12 and 19",
+    "description": "Afrobeat, highlife, mbaqanga, and other popular genres through the histories and networks that shape their circulation.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Some Theoretical Perspectives on African Popular Music",
+        "author": "Austin Emielu",
+        "status": "Assigned reading",
+        "note": "January 12, pp. 371–388.",
+        "source": "https://africa.ufl.edu/wp-content/uploads/sites/258/syllabus_2022.pdf"
+      },
+      {
+        "title": "African Music as Text",
+        "author": "Kofi Agawu",
+        "status": "Assigned reading",
+        "note": "January 12, pp. 8–16.",
+        "source": "https://africa.ufl.edu/wp-content/uploads/sites/258/syllabus_2022.pdf"
+      },
+      {
+        "title": "Paul Simon’s Graceland, South Africa, and the Mediation of Musical Meaning",
+        "author": "Louise Meintjes",
+        "status": "Assigned reading",
+        "note": "January 19, pp. 37–73.",
+        "source": "https://africa.ufl.edu/wp-content/uploads/sites/258/syllabus_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "uppsala-saami-culture-society",
+    "institution": "Uppsala University",
+    "country": "Sweden",
+    "discipline": "Cultural Studies",
+    "course": "Saami Culture and Society II",
+    "term": "Published reading list",
+    "source": "https://www.uu.se/en/study/reading-list?query=21431",
+    "sourceType": "Official university reading list",
+    "sourceLocation": "Compulsory reading entries",
+    "description": "Sámi writing, sacred landscapes in Sápmi, and Indigenous research methods.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Decolonizing Methodologies: Research and Indigenous Peoples",
+        "author": "Linda Tuhiwai Smith",
+        "status": "Compulsory reading",
+        "note": "Second edition.",
+        "source": "https://www.uu.se/en/study/reading-list?query=21431"
+      },
+      {
+        "title": "The Making of a Sacred Mountain: Meanings of Nature and Sacredness in Sapmi and Northern Norway",
+        "author": "Siv Ellen Kraft",
+        "status": "Compulsory reading",
+        "note": "Pages 53–61.",
+        "source": "https://www.uu.se/en/study/reading-list?query=21431"
+      },
+      {
+        "title": "What Is an Indigenous Research Methodology?",
+        "author": "Shawn Wilson",
+        "status": "Compulsory reading",
+        "note": "Canadian Journal of Native Education, 2001.",
+        "source": "https://www.uu.se/en/study/reading-list?query=21431"
+      }
+    ]
+  },
+  {
+    "id": "ceu-roma-identity-leadership",
+    "institution": "Central European University",
+    "country": "Austria",
+    "discipline": "Cultural Studies",
+    "course": "Roma Identity and Leadership in Europe 2",
+    "term": "Winter 2024",
+    "instructor": "Rufat Demirov",
+    "source": "https://ceulearning.ceu.edu/pluginfile.php/628289/course/overviewfiles/Syllabus%20Roma%20Identity%20Winter.pdf?forcedownload=1",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "First session reading list, January 26",
+    "description": "Romani identity, the history of Roma in Europe, political organizing, and leadership.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "The Lived Experience of the Black Man",
+        "author": "Frantz Fanon",
+        "status": "Required reading",
+        "note": "Chapter in Black Skin, White Masks.",
+        "source": "https://ceulearning.ceu.edu/pluginfile.php/628289/course/overviewfiles/Syllabus%20Roma%20Identity%20Winter.pdf?forcedownload=1"
+      },
+      {
+        "title": "Knowing the Oriental",
+        "author": "Edward Said",
+        "status": "Recommended reading",
+        "note": "Chapter in Orientalism, pp. 31–49.",
+        "source": "https://ceulearning.ceu.edu/pluginfile.php/628289/course/overviewfiles/Syllabus%20Roma%20Identity%20Winter.pdf?forcedownload=1"
+      },
+      {
+        "title": "Of Mimicry and Man: The Ambivalence of Colonial Discourse",
+        "author": "Homi K. Bhabha",
+        "status": "Recommended reading",
+        "note": "Chapter in The Location of Culture, pp. 121–131.",
+        "source": "https://ceulearning.ceu.edu/pluginfile.php/628289/course/overviewfiles/Syllabus%20Roma%20Identity%20Winter.pdf?forcedownload=1"
+      }
+    ]
+  },
+  {
+    "id": "windward-pacific-worlds",
+    "institution": "Windward Community College",
+    "country": "United States",
+    "discipline": "Cultural Studies",
+    "course": "Pacific Worlds: An Introduction to Pacific Islands Studies",
+    "term": "Spring 2024",
+    "instructor": "Ian ʻAkahi Masterson",
+    "source": "https://windward.hawaii.edu/wp-content/uploads/sites/3/syllabus/2024/Spring/Spring2024-PACS108-62060.pdf",
+    "sourceType": "Official college syllabus",
+    "sourceLocation": "Course readings section",
+    "description": "Pacific Islander perspectives on Oceania’s histories, literature, arts, and contemporary issues.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Teaching Oceania iBooks",
+        "author": "Center for Pacific Islands Studies",
+        "status": "Course reading series",
+        "note": "The syllabus identifies the series as a major source of readings and does not specify individual volumes in the reading section.",
+        "source": "https://windward.hawaii.edu/wp-content/uploads/sites/3/syllabus/2024/Spring/Spring2024-PACS108-62060.pdf"
+      }
+    ]
+  },
+  {
+    "id": "guam-micronesian-religion",
+    "institution": "University of Guam",
+    "country": "United States",
+    "discipline": "Religion and cultural studies",
+    "course": "Religion, Magic, and Myth in Micronesia",
+    "term": "Fall 2024",
+    "instructor": "David Atienza",
+    "source": "https://www.uog.edu/_resources/files/schools-and-colleges/college-of-liberal-arts-and-social-sciences/syllabus/fall-2024/humanities/anthropology/2024-FA24-MI518-Syllabus.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Course calendar, Readings",
+    "description": "Micronesian religious practices, myth, healing, and relationships with ancestors through Indigenous and comparative perspectives.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Traditional Micronesian Societies: Adaptation, Integration, and Political Organization",
+        "author": "Glenn Petersen",
+        "status": "Syllabus-listed reading",
+        "note": "Pages 12–36.",
+        "source": "https://www.uog.edu/_resources/files/schools-and-colleges/college-of-liberal-arts-and-social-sciences/syllabus/fall-2024/humanities/anthropology/2024-FA24-MI518-Syllabus.pdf"
+      },
+      {
+        "title": "Summoning the Powers Beyond: Traditional Religions in Micronesia",
+        "author": "Jay D. Dobbin",
+        "status": "Syllabus-listed reading",
+        "note": "Pages 1–21 in the course calendar.",
+        "source": "https://www.uog.edu/_resources/files/schools-and-colleges/college-of-liberal-arts-and-social-sciences/syllabus/fall-2024/humanities/anthropology/2024-FA24-MI518-Syllabus.pdf"
+      },
+      {
+        "title": "Religion",
+        "author": "John Barker",
+        "status": "Syllabus-listed reading",
+        "note": "In The Pacific Islands: Environment & Society, pp. 214–224.",
+        "source": "https://www.uog.edu/_resources/files/schools-and-colleges/college-of-liberal-arts-and-social-sciences/syllabus/fall-2024/humanities/anthropology/2024-FA24-MI518-Syllabus.pdf"
+      }
+    ]
+  },
+  {
+    "id": "utexas-religions-caribbean",
+    "institution": "University of Texas at Austin",
+    "country": "United States",
+    "discipline": "Religion and cultural studies",
+    "course": "Religions of the Caribbean",
+    "term": "Spring 2016",
+    "instructor": "J. Brent Crosson",
+    "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/6977058/",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Texts",
+    "description": "Vodou, Rastafari, Hindu traditions, and other religious practices in the Caribbean and its diasporas.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "Rastafari: Roots and Ideology",
+        "author": "Barry Chevannes",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/6977058/"
+      },
+      {
+        "title": "Mama Lola: A Vodou Priestess in Brooklyn",
+        "author": "Karen McCarthy Brown",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/6977058/"
+      },
+      {
+        "title": "Diaspora Conversions: Black Carib Religion and the Recovery of Africa",
+        "author": "Paul Christopher Johnson",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/6977058/"
+      }
+    ]
+  },
+  {
+    "id": "delhi-tibetan-chinese-buddhism",
+    "institution": "University of Delhi",
+    "country": "India",
+    "discipline": "Religion and cultural studies",
+    "course": "Introduction to Tibetan and Chinese Buddhism",
+    "term": "Published curriculum",
+    "source": "https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-139.%20%28B.A.%20%28Prog.%29%20Buddhist%20Studies%29.pdf",
+    "sourceType": "Official university curriculum",
+    "sourceLocation": "BS-CBCS-504, Essential Readings",
+    "description": "Buddhist literature, pilgrimage, institutions, and the development of Buddhism in Tibet and China.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings or reading resources",
+    "readings": [
+      {
+        "title": "History of Tibet",
+        "author": "Alex McKay (ed.)",
+        "status": "Essential reading",
+        "note": "Listed under Essential Readings for BS-CBCS-504.",
+        "source": "https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-139.%20%28B.A.%20%28Prog.%29%20Buddhist%20Studies%29.pdf"
+      },
+      {
+        "title": "The Chinese Transformation of Buddhism",
+        "author": "Kenneth K. S. Ch’en",
+        "status": "Essential reading",
+        "note": "Listed under Essential Readings for BS-CBCS-504.",
+        "source": "https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-139.%20%28B.A.%20%28Prog.%29%20Buddhist%20Studies%29.pdf"
+      },
+      {
+        "title": "Pilgrimage to Kailash: The Indian Route",
+        "author": "K. T. S. Sarao",
+        "status": "Essential reading",
+        "note": "Listed under Essential Readings for BS-CBCS-504.",
+        "source": "https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-139.%20%28B.A.%20%28Prog.%29%20Buddhist%20Studies%29.pdf"
+      }
+    ]
   }
 ]
