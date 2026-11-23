@@ -10,7 +10,7 @@ No dependencies or build step. Run `python3 -m http.server 8000` from the reposi
 
 ## Design
 
-The bundled artwork uses genuinely brush-textured literary impressionist compositions from the starter prototype, optimized into self-contained SVG wrappers containing the original painted imagery as embedded WebP images. All illustration content is raster-painted artwork, **not** vector line art. Do not substitute stock photos or generic vector elements. Serif editorial typography, chalk/cream paper, muted aubergine, and small mono annotations complete the visual system.
+The site uses painterly illustrations for the hero, Rabbit Hole, and manifesto. Course cards in the archive are text-only. Serif typography and the parchment and espresso themes carry the visual style across sections.
 
 ## Sources and scope
 
@@ -20,7 +20,7 @@ The four initial entries are grounded in official MIT OpenCourseWare reading pag
 
 - `index.html`: the static interface, filtering, course details, local browser storage, and Markdown export.
 - `data/courses.json`: canonical verified course records.
-- `art/*.svg`: optimized painted illustrations embedded as lossily compressed WebP data, preserved in deployable text assets.
+- `art/`: section illustrations and brand assets.
 - `docs/data-schema.md`: provenance and reading-type policy.
 - `AGENTS.md`: repository scope and quality requirements.
 - `tests/smoke.py`: local functional smoke tests.
