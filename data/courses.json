@@ -5458,5 +5458,143 @@
     ],
     "verifiedAt": "2026-11-22",
     "coverage": "Selected named works; assigned excerpts may differ from complete books. Cambridge Mesopotamian list is prospective-student recommendations."
+  },
+  {
+    "id": "yale-african-american-history",
+    "institution": "Yale University",
+    "country": "United States",
+    "discipline": "History",
+    "course": "African American History: From Emancipation to the Present",
+    "term": "Spring 2010",
+    "instructor": "Jonathan Holloway",
+    "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present",
+    "sourceType": "Open Yale Courses syllabus",
+    "sourceLocation": "Texts and Articles",
+    "description": "African American history from Reconstruction through urbanization, civil rights organizing, and debates over political leadership.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "The Fire Next Time",
+        "author": "James Baldwin",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present"
+      },
+      {
+        "title": "Pullman Porters and the Rise of Black Protest Politics",
+        "author": "Beth Bates",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present"
+      },
+      {
+        "title": "To ’Joy My Freedom",
+        "author": "Tera Hunter",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present"
+      },
+      {
+        "title": "The Scene of Harlem Cabaret",
+        "author": "Shane Vogel",
+        "status": "Course text",
+        "note": "Listed under Texts.",
+        "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present"
+      },
+      {
+        "title": "Letter from a Birmingham Jail",
+        "author": "Martin Luther King Jr.",
+        "status": "Syllabus-listed article",
+        "note": "Listed under Articles.",
+        "source": "https://oyc.yale.edu/syllabus-african-american-history-emancipation-present"
+      }
+    ]
+  },
+  {
+    "id": "jcu-art-crime",
+    "institution": "John Cabot University",
+    "country": "Italy",
+    "discipline": "Art History",
+    "course": "Special Topics in Art History and Law: Art Crime",
+    "term": "Spring 2019",
+    "instructor": "Crispin Corrado",
+    "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=12226",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Textbook and daily schedule, weeks 2–5 and 11–12",
+    "description": "An investigation of art and cultural heritage crime in Italy, from looted antiquities and museum provenance to repatriation.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Chasing Aphrodite",
+        "author": "Jason Felch and Ralph Frammolino",
+        "status": "Assigned reading",
+        "note": "Prologue, chapters 1–22, and epilogue in weeks 2–5.",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=12226"
+      },
+      {
+        "title": "Shaky Ground",
+        "author": "Elizabeth Marlowe",
+        "status": "Assigned reading",
+        "note": "Introduction, chapters 1–5, and conclusion in weeks 11–12.",
+        "source": "https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=12226"
+      }
+    ]
+  },
+  {
+    "id": "mit-deep-sea-archaeology",
+    "institution": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "discipline": "Archaeology",
+    "course": "Research Seminar in Deep Sea Archaeology",
+    "term": "Spring 2002",
+    "instructor": "David Mindell and Claire Calcagno",
+    "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/",
+    "sourceType": "MIT OpenCourseWare readings",
+    "sourceLocation": "Weekly readings, weeks 5, 9, 10, 12, and 13",
+    "description": "A seminar on how submerged shipwrecks illuminate ancient trade, and how underwater technology and conservation shape the evidence.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "New Oceanographic Uses of Autonomous Underwater Vehicles",
+        "author": "J. Bellingham",
+        "status": "Source-listed reading",
+        "note": "Week 5, pp. 34–47.",
+        "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
+      },
+      {
+        "title": "Fire in the Sea",
+        "author": "W. L. Friedrich",
+        "status": "Source-listed reading",
+        "note": "Week 9, Parts I and II, pp. 6–93.",
+        "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
+      },
+      {
+        "title": "Iron Age Shipwrecks in Deep Water off Ashkelon, Israel",
+        "author": "R. D. Ballard, L. Stager, et al.",
+        "status": "Source-listed reading",
+        "note": "Week 10, pp. 151–168.",
+        "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
+      },
+      {
+        "title": "Deep Water Archaeology: A Late-Roman Ship from Carthage and an Ancient Trade Route near Skerki Bank off Northwest Sicily",
+        "author": "A. M. McCann and J. Freed",
+        "status": "Source-listed reading",
+        "note": "Week 12, chapters 1–4.",
+        "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
+      },
+      {
+        "title": "Conservation of Marine Archaeological Objects",
+        "author": "C. Pearson (ed.)",
+        "status": "Source-listed reading",
+        "note": "Week 13.",
+        "source": "https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/"
+      }
+    ]
   }
 ]
