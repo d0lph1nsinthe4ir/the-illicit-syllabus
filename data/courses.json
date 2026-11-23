@@ -5892,5 +5892,241 @@
         "source": "https://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-139.%20%28B.A.%20%28Prog.%29%20Buddhist%20Studies%29.pdf"
       }
     ]
+  },
+  {
+    "id": "washu-free-speech-campus",
+    "institution": "Washington University in St. Louis",
+    "country": "United States",
+    "discipline": "Political Science",
+    "course": "Free Speech on Campus",
+    "term": "Spring 2026",
+    "source": "https://epstein.wustl.edu/free-speech-on-campus-outline-spring-2026",
+    "sourceType": "Course outline and readings",
+    "sourceLocation": "Outline and Readings",
+    "description": "Academic freedom, First Amendment rules, and competing values in campus speech disputes.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Free Speech: A Campus Toolkit",
+        "author": "Brown et al.",
+        "status": "Assigned excerpts",
+        "note": "Preliminaries, pp. xi–xix, and pp. 1–25. The outline also assigns chapter 3 and asks readers to skim chapters 2, 4, and 5.",
+        "source": "https://epstein.wustl.edu/free-speech-on-campus-outline-spring-2026"
+      }
+    ]
+  },
+  {
+    "id": "harvard-free-speech-digital-age",
+    "institution": "Harvard University",
+    "country": "United States",
+    "discipline": "Political Philosophy",
+    "course": "Free Speech in the Digital Age",
+    "term": "Published syllabus",
+    "instructor": "Gillian Sinnott",
+    "source": "https://writingprogram.fas.harvard.edu/sites/g/files/omnuum4511/files/hcwp/files/sinnott_free_speech_syllabus.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Selected readings",
+    "description": "Arguments for freedom of expression and how they apply to online speech and falsehoods.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "status": "Syllabus-listed reading",
+        "note": "Listed under Selected readings.",
+        "source": "https://writingprogram.fas.harvard.edu/sites/g/files/omnuum4511/files/hcwp/files/sinnott_free_speech_syllabus.pdf"
+      },
+      {
+        "title": "Free Speech and Its Relation to Self-Government",
+        "author": "Alexander Meiklejohn",
+        "status": "Syllabus-listed reading",
+        "note": "Listed under Selected readings.",
+        "source": "https://writingprogram.fas.harvard.edu/sites/g/files/omnuum4511/files/hcwp/files/sinnott_free_speech_syllabus.pdf"
+      },
+      {
+        "title": "A Theory of Freedom of Expression",
+        "author": "T. M. Scanlon",
+        "status": "Syllabus-listed reading",
+        "note": "Listed under Selected readings.",
+        "source": "https://writingprogram.fas.harvard.edu/sites/g/files/omnuum4511/files/hcwp/files/sinnott_free_speech_syllabus.pdf"
+      }
+    ]
+  },
+  {
+    "id": "upenn-conservatism-taft-trump",
+    "institution": "University of Pennsylvania",
+    "country": "United States",
+    "discipline": "History",
+    "course": "American Conservatism From Taft to Trump",
+    "term": "Published syllabus",
+    "instructor": "Brian Rosenwald",
+    "source": "https://snfpaideia.upenn.edu/wp-content/uploads/2020/10/Conservatism-From-Taft-to-Trump-Syllabus-2020.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Books and weekly schedule",
+    "description": "The rise of modern American conservatism through coalition building, elections, policy, and conservative media.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "The Conservative Intellectual Movement Since 1945",
+        "author": "George H. Nash",
+        "status": "Assigned excerpt",
+        "note": "Chapters 4–6, as listed in the schedule.",
+        "source": "https://snfpaideia.upenn.edu/wp-content/uploads/2020/10/Conservatism-From-Taft-to-Trump-Syllabus-2020.pdf"
+      },
+      {
+        "title": "Before the Storm: Barry Goldwater and the Unmaking of American Consensus",
+        "author": "Rick Perlstein",
+        "status": "Assigned excerpt",
+        "note": "Chapters 10 and 15.",
+        "source": "https://snfpaideia.upenn.edu/wp-content/uploads/2020/10/Conservatism-From-Taft-to-Trump-Syllabus-2020.pdf"
+      },
+      {
+        "title": "Messengers of the Right: Conservative Media and the Transformation of American Politics",
+        "author": "Nicole Hemmer",
+        "status": "Course text",
+        "note": "Listed under Books.",
+        "source": "https://snfpaideia.upenn.edu/wp-content/uploads/2020/10/Conservatism-From-Taft-to-Trump-Syllabus-2020.pdf"
+      }
+    ]
+  },
+  {
+    "id": "columbia-global-1960s",
+    "institution": "Columbia University",
+    "country": "United States",
+    "discipline": "History",
+    "course": "The Global 1960s as History",
+    "term": "Spring 2004",
+    "instructor": "William Marotti",
+    "source": "https://www.columbia.edu/cu/weai/exeas/syllabi/global-1960s-as-history.html",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Required Texts and session readings",
+    "description": "Radical politics and culture across France, Algeria, Japan, the United States, and Mexico, with attention to decolonization and protest.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "May ’68 and Its Afterlives",
+        "author": "Kristin Ross",
+        "status": "Required text",
+        "note": "Chapter 1, pp. 19–64, appears in the session schedule.",
+        "source": "https://www.columbia.edu/cu/weai/exeas/syllabi/global-1960s-as-history.html"
+      },
+      {
+        "title": "Negroes with Guns",
+        "author": "Robert F. Williams",
+        "status": "Required text",
+        "note": "Listed under Required Texts.",
+        "source": "https://www.columbia.edu/cu/weai/exeas/syllabi/global-1960s-as-history.html"
+      },
+      {
+        "title": "The Port Huron Statement",
+        "author": "Students for a Democratic Society",
+        "status": "Required text",
+        "note": "Listed under Required Texts.",
+        "source": "https://www.columbia.edu/cu/weai/exeas/syllabi/global-1960s-as-history.html"
+      }
+    ]
+  },
+  {
+    "id": "reading-anarchy-uk",
+    "institution": "University of Reading",
+    "country": "United Kingdom",
+    "discipline": "Cultural History",
+    "course": "Anarchy in the UK: Punk, Politics and Youth Culture in Britain, 1976–84",
+    "term": "2023–24",
+    "instructor": "Matthew Worley",
+    "source": "https://www.reading.ac.uk/modules/documents?acyear=2023%252f4&modcode=HS3SAU&schoolcode=HUM+CLASS%7CHUM+GCMS%7CHUM+HIST%7CHUM+PHIL",
+    "sourceType": "Official university module outline",
+    "sourceLocation": "Outline content and coursework",
+    "description": "British punk, youth culture, and political resistance through music, visual art, and fanzines.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Public module outline verified; individual readings have not been verified",
+    "readings": []
+  },
+  {
+    "id": "stanford-computers-counterculture",
+    "institution": "Stanford University",
+    "country": "United States",
+    "discipline": "Cultural History",
+    "course": "Computers, Information Ideology and American Culture since World War II",
+    "term": "Spring 2006",
+    "instructor": "Fred Turner",
+    "source": "https://web.stanford.edu/~fturner/Turner%20Comm%20320%202006%20Syllabus.pdf",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Weeks 3, 5, and 6",
+    "description": "A media history seminar on cybernetics, American counterculture, and the emergence of personal computing.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "The Human Use of Human Beings",
+        "author": "Norbert Wiener",
+        "status": "Required excerpt",
+        "note": "Week 3, chapters 1–3 and 5.",
+        "source": "https://web.stanford.edu/~fturner/Turner%20Comm%20320%202006%20Syllabus.pdf"
+      },
+      {
+        "title": "Operating Manual for Spaceship Earth",
+        "author": "Buckminster Fuller",
+        "status": "Syllabus-listed reading",
+        "note": "Week 5.",
+        "source": "https://web.stanford.edu/~fturner/Turner%20Comm%20320%202006%20Syllabus.pdf"
+      },
+      {
+        "title": "The Electric Kool-Aid Acid Test",
+        "author": "Tom Wolfe",
+        "status": "Syllabus-listed reading",
+        "note": "Week 6.",
+        "source": "https://web.stanford.edu/~fturner/Turner%20Comm%20320%202006%20Syllabus.pdf"
+      }
+    ]
+  },
+  {
+    "id": "utexas-beats-american-culture",
+    "institution": "University of Texas at Austin",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "The Beats and American Culture, 1945–90",
+    "term": "Spring 2019",
+    "instructor": "Jeffrey Meikle",
+    "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/9463336/",
+    "sourceType": "Official university syllabus",
+    "sourceLocation": "Required books and weekly schedule",
+    "description": "Beat writing and postwar American culture, including experiments with poetry and spontaneous prose.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "status": "Assigned reading",
+        "note": "February 6.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/9463336/"
+      },
+      {
+        "title": "Howl and Other Poems",
+        "author": "Allen Ginsberg",
+        "status": "Assigned reading",
+        "note": "February 20.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/9463336/"
+      },
+      {
+        "title": "Essentials of Spontaneous Prose",
+        "author": "Jack Kerouac",
+        "status": "Assigned reading",
+        "note": "February 20.",
+        "source": "https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/9463336/"
+      }
+    ]
   }
 ]
