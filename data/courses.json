@@ -6436,5 +6436,142 @@
         "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
       }
     ]
+  },
+  {
+    "id": "amherst-psychoanalysis-law",
+    "institution": "Amherst College",
+    "country": "United States",
+    "discipline": "Law and psychoanalysis",
+    "course": "Psychoanalysis and Law",
+    "term": "Published syllabus",
+    "instructor": "Adam Sitze",
+    "source": "https://www.amherst.edu/system/files/media/0117/LJST%2520212%2520Syllabus%2520%2528FINAL%2529.pdf",
+    "sourceType": "Official college syllabus",
+    "sourceLocation": "Required Texts and course schedule",
+    "description": "How psychoanalytic accounts of desire and conflict can illuminate law, and how legal questions shaped psychoanalytic thought.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Love, Guilt, and Reparation",
+        "author": "Melanie Klein",
+        "status": "Required text",
+        "note": "Listed among the required books.",
+        "source": "https://www.amherst.edu/system/files/media/0117/LJST%2520212%2520Syllabus%2520%2528FINAL%2529.pdf"
+      },
+      {
+        "title": "The Ethics of Psychoanalysis",
+        "author": "Jacques Lacan",
+        "status": "Required text",
+        "note": "Seminar Book VII. The schedule assigns chapters I, II, IV–VI, and XIII–XXIV.",
+        "source": "https://www.amherst.edu/system/files/media/0117/LJST%2520212%2520Syllabus%2520%2528FINAL%2529.pdf"
+      },
+      {
+        "title": "Mourning and Its Relation to Manic-Depressive States",
+        "author": "Melanie Klein",
+        "status": "Assigned reading",
+        "note": "Listed in the course schedule.",
+        "source": "https://www.amherst.edu/system/files/media/0117/LJST%2520212%2520Syllabus%2520%2528FINAL%2529.pdf"
+      },
+      {
+        "title": "Kant with Sade",
+        "author": "Jacques Lacan",
+        "status": "Assigned reading",
+        "note": "Listed in the course schedule.",
+        "source": "https://www.amherst.edu/system/files/media/0117/LJST%2520212%2520Syllabus%2520%2528FINAL%2529.pdf"
+      }
+    ]
+  },
+  {
+    "id": "edinburgh-desire-writing",
+    "institution": "University of Edinburgh",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "Desire and Writing: Psychoanalysis, Literature, Criticism",
+    "term": "2024–25",
+    "source": "https://www.drps.ed.ac.uk/24-25/dpt/cxenli10431.htm",
+    "sourceType": "Official university course catalogue",
+    "sourceLocation": "Theory reading list and indicative bibliography",
+    "description": "Reads psychoanalytic theory as writing, then uses it to explore questions of literary form and interpretation.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Mourning and Its Relation to Manic-Depressive States",
+        "author": "Melanie Klein",
+        "status": "Course-listed reading",
+        "note": "Listed under Theory.",
+        "source": "https://www.drps.ed.ac.uk/24-25/dpt/cxenli10431.htm"
+      },
+      {
+        "title": "The Four Fundamental Concepts of Psychoanalysis",
+        "author": "Jacques Lacan",
+        "status": "Course-listed reading",
+        "note": "Listed under Theory.",
+        "source": "https://www.drps.ed.ac.uk/24-25/dpt/cxenli10431.htm"
+      },
+      {
+        "title": "The Poetics of Psychoanalysis: In the Wake of Klein",
+        "author": "Mary Jacobus",
+        "status": "Indicative reading",
+        "note": "Listed in the indicative bibliography.",
+        "source": "https://www.drps.ed.ac.uk/24-25/dpt/cxenli10431.htm"
+      }
+    ]
+  },
+  {
+    "id": "uchicago-psychoanalytic-theory",
+    "institution": "University of Chicago",
+    "country": "United States",
+    "discipline": "Literature",
+    "course": "Psychoanalytic Theory: Freud and Lacan",
+    "term": "Winter 2017–18",
+    "instructor": "François Meltzer",
+    "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan",
+    "sourceType": "Official university course description",
+    "sourceLocation": "Course description, named readings",
+    "description": "Major works by Freud and Lacan, including Lacan’s reading of Poe, and their influence on later literary theory.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Seminar on the Purloined Letter",
+        "author": "Jacques Lacan",
+        "status": "Course-listed reading",
+        "note": "Listed among the Lacan readings.",
+        "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan"
+      },
+      {
+        "title": "The Purloined Letter",
+        "author": "Edgar Allan Poe",
+        "status": "Course-listed reading",
+        "note": "Listed alongside Lacan’s seminar.",
+        "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan"
+      },
+      {
+        "title": "God and the Jouissance of the Woman: A Love Letter",
+        "author": "Jacques Lacan",
+        "status": "Course-listed reading",
+        "note": "Listed among the Lacan readings.",
+        "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan"
+      },
+      {
+        "title": "Écrits",
+        "author": "Jacques Lacan",
+        "status": "Course-listed selections",
+        "note": "The description specifies parts of the collection.",
+        "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan"
+      },
+      {
+        "title": "Beyond the Pleasure Principle",
+        "author": "Sigmund Freud",
+        "status": "Course-listed reading",
+        "note": "Listed among the Freud readings.",
+        "source": "https://english.uchicago.edu/courses/psychoanalytic-theory-freud-and-lacan"
+      }
+    ]
   }
 ]
