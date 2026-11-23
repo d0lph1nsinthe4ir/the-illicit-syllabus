@@ -382,8 +382,17 @@ const archiveSecondaryCategories={
 function archivePrimaryCategory(course){
   return archivePrimaryOverrides[course.id]||archiveDisciplineByLabel.get(course.discipline.toLowerCase())||course.discipline;
 }
+const dissentAndCounterculture=new Set([
+  'washu-free-speech-campus',
+  'harvard-free-speech-digital-age',
+  'upenn-conservatism-taft-trump',
+  'columbia-global-1960s',
+  'reading-anarchy-uk',
+  'stanford-computers-counterculture',
+  'utexas-beats-american-culture'
+]);
 function setFilters(){
-  const categories=[...new Set(courses.flatMap(course=>[archivePrimaryCategory(course),archiveSecondaryCategories[course.id]].filter(Boolean)))].sort((a,b)=>a.localeCompare(b));
+  const categories=[...new Set(courses.flatMap(course=>[archivePrimaryCategory(course),archiveSecondaryCategories[course.id],dissentAndCounterculture.has(course.id)?'Dissent and Counterculture':null].filter(Boolean)))].sort((a,b)=>a.localeCompare(b));
   [['discipline','All disciplines',categories],['institution','All universities',unique('institution')]].forEach(([field,label,values])=>{
     const select=$(field),previous=select.value;
     select.innerHTML='<option value="">'+label+'</option>'+values.map(value=>'<option value="'+clean(value)+'">'+clean(value)+'</option>').join('');
@@ -396,6 +405,7 @@ const topics=[
   {name:'History and Culture',description:'Empires, folklore, and the ways societies make meaning'},
   {name:'Religion',description:'Belief, ritual, and religious traditions across societies'},
   {name:'Music',description:'Listening, performance, and music’s role in culture'},
+  {name:'Dissent and Counterculture',description:'Free speech, political dissent, punk, and the Beats'},
   {name:'Archaeology',description:'Material culture, ancient societies, and the worlds they left behind'},
   {name:'Politics, Law, and Society',description:'Power, political ideas, human rights, and social change'},
   {name:'Art, Design, and Technology',description:'Visual art, creative practice, engineering, and computing'},
@@ -404,7 +414,7 @@ const topics=[
 let archiveLimit=12,rabbitLimit=12;
 const view=()=>location.hash.replace('#','');
 function matchesArchiveCategory(course,category){
-  return archivePrimaryCategory(course)===category||archiveSecondaryCategories[course.id]===category;
+  return archivePrimaryCategory(course)===category||archiveSecondaryCategories[course.id]===category||(category==='Dissent and Counterculture'&&dissentAndCounterculture.has(course.id));
 }
 function renderTopics(){
   const shown=view()==='browse-topics'?topics:topics.slice(0,6);
