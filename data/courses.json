@@ -6345,5 +6345,96 @@
     "verifiedAt": "2026-11-23",
     "coverage": "Public course description verified; individual readings have not been verified",
     "readings": []
+  },
+  {
+    "id": "edinburgh-modernism-text-image-object",
+    "institution": "University of Edinburgh",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "Modernism: Text, Image, Object",
+    "term": "2020–21",
+    "source": "https://www.drps.ed.ac.uk/20-21/dpt/cxenli10344.htm",
+    "sourceType": "Official university course catalogue",
+    "sourceLocation": "Weekly schedule, Cubism, Futurism and Dada, and Pop",
+    "description": "Modernist literature in conversation with painting, typography, manifestos, and Pop Art.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "Crash",
+        "author": "J. G. Ballard",
+        "status": "Assigned reading",
+        "note": "Pop unit.",
+        "source": "https://www.drps.ed.ac.uk/20-21/dpt/cxenli10344.htm"
+      },
+      {
+        "title": "For the Finest Art, Try Pop",
+        "author": "Richard Hamilton",
+        "status": "Assigned reading",
+        "note": "Pop unit.",
+        "source": "https://www.drps.ed.ac.uk/20-21/dpt/cxenli10344.htm"
+      },
+      {
+        "title": "Three Lives",
+        "author": "Gertrude Stein",
+        "status": "Assigned reading",
+        "note": "Cubism unit.",
+        "source": "https://www.drps.ed.ac.uk/20-21/dpt/cxenli10344.htm"
+      }
+    ]
+  },
+  {
+    "id": "ucl-cultures-of-chance",
+    "institution": "University College London",
+    "country": "United Kingdom",
+    "discipline": "Literature",
+    "course": "Cultures of Chance: Accident, Error, and Catastrophe in Literature and Culture from 1960 to the Present",
+    "term": "Published reading list",
+    "instructor": "Julia Jordan",
+    "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf",
+    "sourceType": "Official university reading list",
+    "sourceLocation": "Weekly reading schedule, weeks 2–5",
+    "description": "Accidents, chance, and formal experimentation in postwar literature and culture, from shuffleable novels to collage.",
+    "status": "source-linked",
+    "verifiedAt": "2026-11-23",
+    "coverage": "Selected source-listed readings",
+    "readings": [
+      {
+        "title": "The Unfortunates",
+        "author": "B. S. Johnson",
+        "status": "Assigned reading",
+        "note": "Week 2.",
+        "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
+      },
+      {
+        "title": "Pale Fire",
+        "author": "Vladimir Nabokov",
+        "status": "Assigned reading",
+        "note": "Week 3.",
+        "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
+      },
+      {
+        "title": "Crash",
+        "author": "J. G. Ballard",
+        "status": "Assigned reading",
+        "note": "Week 4.",
+        "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
+      },
+      {
+        "title": "Blood and Guts in High School",
+        "author": "Kathy Acker",
+        "status": "Assigned reading",
+        "note": "Week 4.",
+        "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
+      },
+      {
+        "title": "Remainder",
+        "author": "Tom McCarthy",
+        "status": "Assigned reading",
+        "note": "Week 5.",
+        "source": "https://www.ucl.ac.uk/arts-humanities/sites/arts_humanities/files/cultures_of_chance_reading_list.pdf"
+      }
+    ]
   }
 ]
