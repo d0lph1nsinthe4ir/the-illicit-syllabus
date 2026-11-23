@@ -222,9 +222,11 @@ header{background:#f8f3e9e6;position:sticky;top:0;z-index:5;backdrop-filter:blur
 :root[data-theme="dark"] .course-card{box-shadow:3px 4px 0 #171513}
 :root[data-theme="dark"] .course-card:hover{box-shadow:6px 9px 0 #171513}
 @media(max-width:580px){
-  header{display:grid;grid-template-columns:minmax(0,max-content) minmax(min-content,1fr);align-items:center;gap:clamp(5px,1.7vw,10px);padding-inline:clamp(8px,2.6vw,16px)}
-  .topnav{gap:inherit}
-  .topnav .theme-toggle{margin-inline-start:auto}
+  header{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:8px;padding-inline:clamp(8px,2.6vw,16px)}
+  .topnav{gap:clamp(5px,1.7vw,10px)}
+  /* Align the sans-serif labels with the serif wordmark as it scales. */
+  .topnav a,
+  .topnav #my-list{position:relative;top:clamp(0px,calc(1vw - 3px),3px)}
   .topnav #my-list{padding-inline:0}
   :root[data-theme="dark"] .hero.wrapper,
   :root[data-theme="dark"] .manifesto{background:var(--dark-page)!important}
